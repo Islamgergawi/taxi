@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center"
+              android:orientation="horizontal"
+              android:paddingBottom="10dp"
+              android:paddingTop="10dp">
+
+    <ImageView
+        android:id="@+id/ivCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/feedback_padding"
+        android:src="@drawable/payment_card_selector"/>
+
+    <TextView
+        android:id="@+id/tvNo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_fp_margin"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textColor="@color/color_card"
+        android:textSize="@dimen/size_general"/>
+
+    <!-- <RadioButton -->
+    <!-- android:id="@+id/rdCardSelection" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" /> -->
+
+    <ImageView
+        android:id="@+id/ivCardDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/feedback_padding"
+        android:padding="@dimen/activity_margin_register"
+        android:src="@drawable/close_payment"/>
+
+</LinearLayout>

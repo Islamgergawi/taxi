@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/layoutAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/layoutSource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvPickupAddr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingLeft="30dp"
+                    android:paddingStart="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:singleLine="true"
+                    android:text="Kasturba road, Rajkot"
+                    android:textColor="@color/color_text"
+                    android:textSize="@dimen/size_general"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutSource"
+                android:src="@drawable/divider_register"/>
+
+            <LinearLayout
+                android:id="@+id/layoutDestination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutSource"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvDestAddr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_history_padding"
+                    android:hint="Destination Address"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingLeft="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/theme_color"
+                    android:textSize="@dimen/dimen_address_textsize"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutDestination"
+                android:src="@drawable/divider_register"/>
+
+            <!-- <ImageView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_centerVertical="true" -->
+            <!-- android:layout_marginLeft="10dp" -->
+            <!-- android:layout_marginStart="10dp" -->
+            <!-- android:src="@drawable/pickup_drop" /> -->
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <include layout="@layout/progressbar"/>
+
+            <ImageView
+                android:id="@+id/ivBookingMapBig"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_launcher"/>
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_alignParentBottom="true" -->
+            <!-- android:layout_margin="@dimen/dimen_fp_margin" -->
+            <!-- android:background="@drawable/gray_border" -->
+            <!-- android:orientation="vertical" > -->
+
+
+            <!-- <ListView -->
+            <!-- android:id="@+id/lvDetails" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:divider="@color/light_gray" -->
+            <!-- android:dividerHeight="1dp" > -->
+            <!-- </ListView> -->
+            <!-- </LinearLayout> -->
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ivBookingMapBig"
+            android:src="@drawable/divider_register"/>
+
+        <!-- <View -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="0.5dp" -->
+        <!-- android:background="@color/light_gray" /> -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvBookingDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/calendar"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/calendar"
+                    android:gravity="center"
+                    android:text="1-1-2015"
+                    android:textColor="@color/light_gray"
+                    android:textSize="@dimen/dimen_hostory_bottom_textsize"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxHeight="0dp"
+                android:minHeight="0dp"
+                android:src="@drawable/divider_line"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/pickUpTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/colck"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/colck"
+                    android:gravity="center"
+                    android:text="12:00"
+                    android:textColor="@color/light_gray"
+                    android:textSize="@dimen/dimen_hostory_bottom_textsize"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxHeight="0dp"
+                android:minHeight="0dp"
+                android:src="@drawable/divider_line"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvVehicle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/vehicle"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/vehicle"
+                    android:gravity="center"
+                    android:text="SUV"
+                    android:textColor="@color/light_gray"
+                    android:textSize="@dimen/dimen_hostory_bottom_textsize"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/tvCancelRequest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_btn_small"
+            android:gravity="center"
+            android:text="@string/text_cancel_request"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_button_textsize"/>
+    </LinearLayout>
+
+</LinearLayout>

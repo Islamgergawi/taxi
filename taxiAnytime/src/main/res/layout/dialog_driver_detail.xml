@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/ellipse_contacting"
+              android:gravity="center"
+              android:minHeight="0dp"
+              android:minWidth="0dp"
+              android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivDriverPhotoDialog"
+        android:layout_width="@dimen/driver_photo_size"
+        android:layout_height="@dimen/driver_photo_size"
+        android:src="@drawable/default_user"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/tvDriverNameDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_margin_register"
+        android:text="David Anderson"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_name"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_margin_register"
+        android:text="@string/text_contacting"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_general_small"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/tvDriverDetailCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_margin_feedback"
+        android:background="@drawable/icon_close"
+        android:gravity="center"/>
+
+</LinearLayout>

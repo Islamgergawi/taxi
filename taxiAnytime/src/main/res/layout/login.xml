@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_centerInParent="true"
+              android:background="@drawable/bg_splash"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llSigninMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_signin"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:gravity="center_vertical"
+            android:paddingBottom="@dimen/dimen_fb_padding"
+            android:paddingTop="@dimen/dimen_fb_padding">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/dimen_fp_margin"
+                android:layout_marginRight="@dimen/dimen_fp_margin"
+                android:text="@string/text_signin_with"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <ImageButton
+                android:id="@+id/btnFb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:src="@drawable/fb_signin"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_fp_margin"
+                android:layout_marginRight="@dimen/dimen_fp_margin"
+                android:text="@string/text_or"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <ImageButton
+                android:id="@+id/btnGplus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:src="@drawable/gmail_w"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/divider_signin"/>
+
+        <com.ondemandbay.taxianytime.component.MyTitleFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/dimen_fp_margin"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/dimen_fp_margin"
+            android:layout_marginStart="@dimen/activity_vertical_margin"
+            android:layout_marginTop="@dimen/dimen_et_margin_top"
+            android:paddingBottom="@dimen/activity_margin_register"
+            android:paddingTop="@dimen/activity_margin_register"
+            android:text="@string/text_email"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_label"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontEdittextView
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_et_margin_top"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:background="@null"
+            android:ems="10"
+            android:hint="@string/text_username_hint"
+            android:inputType="textEmailAddress"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/divider_signin"/>
+
+        <LinearLayout
+            android:id="@+id/llSigninMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/llSigninMain"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <com.ondemandbay.taxianytime.component.MyTitleFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/dimen_fp_margin"
+                    android:layout_marginLeft="@dimen/activity_vertical_margin"
+                    android:layout_marginRight="@dimen/dimen_fp_margin"
+                    android:layout_marginStart="@dimen/activity_vertical_margin"
+                    android:layout_marginTop="@dimen/activity_margin_register"
+                    android:paddingBottom="@dimen/activity_margin_register"
+                    android:paddingTop="@dimen/activity_margin_register"
+                    android:text="@string/text_password"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_label"/>
+
+                <com.ondemandbay.taxianytime.component.MyFontEdittextView
+                    android:id="@+id/etPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/dimen_et_margin_top"
+                    android:layout_marginLeft="@dimen/activity_vertical_margin"
+                    android:layout_marginRight="@dimen/activity_vertical_margin"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="@string/text_password_hint"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="@dimen/size_general"/>
+
+
+            </LinearLayout>
+
+            <!-- <ImageView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_marginRight="@dimen/dimen_fp_margin" -->
+            <!-- android:src="@drawable/attention_signin" /> -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.ondemandbay.taxianytime.component.MyFontButton
+                android:id="@+id/btnSignIn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_small_light"
+                android:gravity="center"
+                android:text="@string/text_signin"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontButton
+                android:id="@+id/btnBackSignIn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_small"
+                android:gravity="center"
+                android:text="@string/text_back"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+        </LinearLayout>
+
+        <!-- <LinearLayout -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_marginLeft="@dimen/activity_vertical_margin" -->
+        <!-- android:layout_marginRight="@dimen/activity_vertical_margin" -->
+        <!-- android:orientation="horizontal" > -->
+
+
+        <!-- <com.automated.taxinow.component.MyFontTextView -->
+        <!-- android:id="@+id/tvRegisterAccount" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_weight="1" -->
+        <!-- android:gravity="left" -->
+        <!-- android:paddingBottom="@dimen/dimen_fp_margin_top" -->
+        <!-- android:paddingTop="@dimen/dimen_fp_margin" -->
+        <!-- android:text="@string/text_create_account" -->
+        <!-- android:textColor="@color/white" -->
+        <!-- android:textSize="@dimen/size_create_account" /> -->
+
+        <com.ondemandbay.taxianytime.component.MyTitleFontTextView
+            android:id="@+id/btnForgetPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:gravity="center"
+            android:paddingBottom="@dimen/dimen_fp_margin"
+            android:paddingTop="@dimen/dimen_fp_margin"
+            android:text="@string/text_forgetpass"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general_small"/>
+        <!-- </LinearLayout> -->
+    </LinearLayout>
+
+</LinearLayout>

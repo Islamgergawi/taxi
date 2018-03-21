@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical"
+              android:paddingTop="@dimen/dimen_referral_margin_top">
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/text_referral"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_dialog_big"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontEdittextView
+        android:id="@+id/etRefCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/dimen_fp_margin"
+        android:layout_marginRight="@dimen/dimen_fp_margin"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:background="@drawable/bg_edittext"
+        android:gravity="center"
+        android:hint="@string/text_enter_ref_code"
+        android:inputType="textEmailAddress"
+        android:singleLine="true"
+        android:textSize="@dimen/size_general"/>
+
+    <LinearLayout
+        android:id="@+id/llErrorMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/activity_margin_feedback"
+        android:orientation="horizontal"
+        android:visibility="invisible">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/img_attention"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:text="@string/err_referral_invalid"
+            android:textColor="@color/red"
+            android:textSize="@dimen/dimen_invoice_baseprice"/>
+    </LinearLayout>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/activity_margin_feedback"
+        android:gravity="center"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:text="@string/msg_referral"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_general"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <com.ondemandbay.taxianytime.component.MyFontButton
+            android:id="@+id/btnSkip"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_small_light"
+            android:gravity="center"
+            android:text="@string/text_skip"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontButton
+            android:id="@+id/btnRefSubmit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_small"
+            android:gravity="center"
+            android:text="@string/text_submit"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/ellipse_contacting"
+              android:gravity="center"
+              android:minHeight="0dp"
+              android:minWidth="0dp"
+              android:orientation="vertical"
+              android:paddingLeft="@dimen/dimen_fp_margin"
+              android:paddingRight="@dimen/dimen_fp_margin">
+
+    <!-- <LinearLayout -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_marginLeft="@dimen/dimen_fp_margin" -->
+    <!-- android:layout_marginRight="@dimen/dimen_fp_margin" -->
+    <!-- android:background="@drawable/ellipse_contacting" -->
+    <!-- android:gravity="center" -->
+    <!-- android:minHeight="0dp" -->
+    <!-- android:minWidth="0dp" -->
+    <!-- android:orientation="vertical" -->
+    <!-- android:paddingLeft="@dimen/popup_margin_text" -->
+    <!-- android:paddingRight="@dimen/popup_margin_text" > -->
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/etForgotText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:gravity="center_horizontal"
+        android:lines="3"
+        android:padding="@dimen/activity_margin_register"
+        android:text="@string/text_forgot_password"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_general"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontEdittextView
+        android:id="@+id/etForgetEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:background="@drawable/card_line_payment_popup"
+        android:hint="@string/text_email"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="@dimen/dimen_fp_margin"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="@dimen/size_general"/>
+
+    <ImageView
+        android:id="@+id/tvForgetSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_margin_register"
+        android:src="@drawable/arrow_right"/>
+    <!-- </LinearLayout> -->
+
+</LinearLayout>

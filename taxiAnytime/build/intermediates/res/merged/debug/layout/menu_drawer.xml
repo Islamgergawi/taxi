@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:orientation="vertical">
+
+    <!-- <RelativeLayout -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" > -->
+
+
+    <!-- <LinearLayout -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:orientation="vertical" > -->
+
+
+    <!-- <ImageView -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:background="@drawable/cover_image" /> -->
+
+
+    <!-- </LinearLayout> -->
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/feedback_margin"
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_vertical_margin">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivMenuProfile"
+            android:layout_width="@dimen/menu_img_width"
+            android:layout_height="@dimen/menu_img_height"
+            android:background="@android:color/transparent"
+            android:src="@drawable/default_user"
+            app:border_color="@color/white"
+            app:border_width="2dp"/>
+
+        <include
+            layout="@layout/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/tvMenuName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_fp_margin_top"
+        android:layout_marginTop="@dimen/dimen_fp_margin"
+        android:gravity="bottom|center_horizontal"
+        android:paddingBottom="@dimen/activity_margin_register"
+        android:text="@string/text_fname"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_menu_name"/>
+    <!-- </RelativeLayout> -->
+
+
+    <!-- <ListView -->
+    <!-- android:id="@+id/left_drawer" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:layout_gravity="start" -->
+    <!-- android:choiceMode="singleChoice" -->
+    <!-- android:divider="@drawable/nav_divider_line" -->
+    <!-- android:dividerHeight="1dp" /> -->
+
+</LinearLayout>

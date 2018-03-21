@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              tools:context=".adapter.HistoryAdapter">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/map_box"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <include
+                layout="@layout/progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <ImageView
+                android:id="@+id/ivHistoryMap"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/map_height"
+                android:background="@null"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_launcher"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_history_margin_top"
+            android:orientation="horizontal">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvHistoryDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10:00Am"
+                android:textAllCaps="true"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvHistoryCost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:text="$25"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvHistoryName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvHistoryDate"
+                android:text="NAME"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_label"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

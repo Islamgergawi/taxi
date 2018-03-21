@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\ref_code_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\ref_code_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\menu_desc_activity.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\menu_desc_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\payment_option.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\payment_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\54fad4db946988fd9f61c3d0a572cc26349f7145\\output\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_trip_new.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\fragment_trip_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete_list_text.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\autocomplete_list_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\crop__activity_crop.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\54fad4db946988fd9f61c3d0a572cc26349f7145\\output\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete_card.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_delete_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\menu_drawer.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_future_request.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_confirm_future_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_payment.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\include_detail_view.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\include_detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\popup_notification_window.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\popup_notification_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\popup_notification_status_window.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\popup_notification_status_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\picker_dialog.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\farequote_popup.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\farequote_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_referral.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_referral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\history_date_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\history_date_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_details.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\vehicle_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\vehicle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\bill_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\bill_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\ref_code_fragment.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\ref_code_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_type.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\list_item_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\view_payment_list_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\view_payment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\custom_marker_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\custom_marker_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\history_details.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\history_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_bookings.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\fragment_my_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\exit_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\exit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_cancel.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\progress_bar_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_driver_detail.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_driver_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\forget_pass_fragment.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\forget_pass_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_payment.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_view_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\3fb4340dc435110453c2ab7f27c29a7cd4dfb84f\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\include_feedback_view.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\include_feedback_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\69b5b4499ccc618e1a8eee24448a5183528e0ead\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e0e2f96b28374a99e92112d877de35ce297ca328\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\booking_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\booking_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\destination_popup.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\destination_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\history_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_list.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\fragment_driver_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\my_marker.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\my_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\progressbar.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\custom_action_bar.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\custom_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\popup_info_window.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\popup_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking_details.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\activity_booking_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dilog_cancel_future_request.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dilog_cancel_future_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rate_card.xml",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\layout\\dialog_rate_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    }
+]

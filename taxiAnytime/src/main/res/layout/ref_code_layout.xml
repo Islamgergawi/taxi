@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/progressLayout"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@color/white"
+              android:orientation="vertical"
+              android:paddingTop="@dimen/dimen_referral_margin_top"
+              android:visibility="visible">
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/text_referral"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_dialog_big"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_referral_margin_bottom"
+        android:layout_marginTop="@dimen/dimen_referral_margin_top"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/completed_btn_feedback"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/text_your_referral_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvReferralCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="abcd"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_referral_code"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/overdue_btn_feedback"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/text_your_referral_credit"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvReferralEarn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="$20"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_referral_code"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/text_share_referral"
+            android:textColor="@color/black"
+            android:textSize="@dimen/size_general"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tv_refferal_bonus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="0.00"
+                android:textColor="@color/theme_color"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_toEndOf="@+id/tv_refferal_bonus"
+                android:layout_toRightOf="@+id/tv_refferal_bonus"
+                android:text="@string/text_share_referral1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_general"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <com.ondemandbay.taxianytime.component.MyFontButton
+        android:id="@+id/btnShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_pickup"
+        android:gravity="center"
+        android:text="@string/text_share"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_general"/>
+
+</LinearLayout>

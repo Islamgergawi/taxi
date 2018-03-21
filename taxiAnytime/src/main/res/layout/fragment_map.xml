@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fcf="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layoutDestination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/layoutAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/layoutSource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvTripPickupAddress"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:drawablePadding="5dp"
+                    android:ellipsize="end"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingLeft="30dp"
+                    android:paddingStart="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:scrollbars="horizontal"
+                    android:singleLine="true"
+                    android:text=""
+                    android:textColor="@color/color_text_dark"
+                    android:textSize="@dimen/size_general"/>
+
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutSource"
+                android:src="@drawable/divider_register"/>
+
+            <LinearLayout
+                android:id="@+id/layoutDestination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutSource"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_vertical">
+
+                <AutoCompleteTextView
+                    android:id="@+id/etEnterDestination"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/text_hint_destination"
+                    android:imeOptions="actionDone"
+                    android:inputType="textNoSuggestions"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingEnd="2dp"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="2dp"
+                    android:paddingStart="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/theme_color"
+                    android:textSize="@dimen/size_general"/>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutCardDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:id="@+id/layoutCash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cash_notification"
+                android:minHeight="0dp"
+                android:minWidth="0dp">
+
+                <TextView
+                    android:id="@+id/tvCash"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:drawableLeft="@drawable/wallet"
+                    android:drawablePadding="@dimen/activity_margin_register"
+                    android:text="@string/text_cash"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_general"/>
+
+                <ImageView
+                    android:id="@+id/imgSelectedCash"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:src="@drawable/check_notification"
+                    android:visibility="gone"/>
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/layoutCard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/card_notification">
+
+                <ImageView
+                    android:id="@+id/imgSelectedCard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:src="@drawable/check_notification"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/tvCardNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:drawableLeft="@drawable/cash"
+                    android:drawablePadding="@dimen/activity_margin_register"
+                    android:text="@string/text_card"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_general"/>
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.44"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/layoutDestination"
+                    android:src="@drawable/divider_register"/>
+
+                <com.ondemandbay.taxianytime.component.MyFontEdittextView
+                    android:id="@+id/ibApplyPromo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:hint="@string/text_enter_promo_code"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"
+                    android:singleLine="true"
+                    android:textSize="@dimen/size_general_small"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/mapFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <com.ondemandbay.taxianytime.component.CustomEventMapView
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutPickup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dimen_fp_margin"
+            android:paddingStart="@dimen/dimen_fp_margin">
+
+            <AutoCompleteTextView
+                android:id="@+id/etEnterSouce"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:drawableLeft="@drawable/search_icon"
+                android:drawablePadding="@dimen/dimen_fp_margin"
+                android:drawableStart="@drawable/search_icon"
+                android:hint="@string/text_pick_up_location"
+                android:imeOptions="actionDone"
+                android:inputType="textNoSuggestions"
+                android:padding="@dimen/activity_margin_register"
+                android:paddingEnd="2dp"
+                android:paddingRight="2dp"
+                android:singleLine="true"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general_small">
+
+                <requestFocus/>
+            </AutoCompleteTextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/line_divider"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingEnd="@dimen/dimen_fp_margin"
+                android:paddingLeft="@dimen/activity_margin_register"
+                android:paddingRight="@dimen/dimen_fp_margin"
+                android:paddingStart="@dimen/activity_margin_register">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/text_estTime"
+                    android:textColor="@color/color_text_dark"
+                    android:textSize="@dimen/size_general_small"/>
+
+                <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+                    android:id="@+id/tvEstimatedTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0 mins"
+                    android:textColor="@color/color_text_dark"
+                    android:textSize="@dimen/size_general_small"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/btnMyLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layoutDestination"
+            android:layout_gravity="end"
+            android:layout_marginTop="@dimen/dimen_margin_my_location"
+            android:background="@drawable/ub_button_mylocation"/>
+
+        <include
+            android:id="@+id/layoutBubble"
+            layout="@layout/my_marker"
+            android:layout_gravity="center"
+            tools:ignore="IncludeLayoutParam"/>
+
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/tvVehicleType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/vehicleLayout"
+            android:layout_gravity="bottom"
+            android:background="@drawable/button_bg_create_request"
+            android:gravity="center"
+            android:padding="5dp"
+            android:paddingTop="@dimen/activity_horizontal_margin"
+            android:text="suv"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/theme_color"/>
+
+        <LinearLayout
+            android:id="@+id/vehicleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="@dimen/dimen_vehicle_margin"
+            android:orientation="vertical">
+
+
+            <at.technikum.mti.fancycoverflow.FancyCoverFlow
+                android:id="@+id/fancyCoverFlow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                fcf:maxRotation="0"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/sendReqLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            android:weightSum="2">
+
+            <com.ondemandbay.taxianytime.component.MyFontButton
+                android:id="@+id/btnRideLater"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_small_light"
+                android:minHeight="0dp"
+                android:text="@string/text_ride_later"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/line_divider"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontButton
+                android:id="@+id/btnRideNow"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_small_light"
+                android:ellipsize="marquee"
+                android:focusable="true"
+                android:freezesText="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:minHeight="0dp"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="@string/text_ride_now"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

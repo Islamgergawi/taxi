@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:orientation="vertical"
+              android:background="@color/white"
+              android:paddingTop="@dimen/activity_margin_register">
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:text="@string/text_confirm_future_request"
+        android:textColor="@color/color_text_label"
+        android:textSize="@dimen/size_general"/>
+
+    <!--     <co.za.provac.rider.component.MyFontPopUpTextView -->
+    <!--         android:layout_width="match_parent" -->
+    <!--         android:layout_height="1dp" -->
+    <!--         android:layout_marginTop="@dimen/activity_margin_register" -->
+    <!--         android:background="@color/color_text" /> -->
+
+    <!--     <co.za.provac.rider.component.MyFontEdittextView -->
+    <!--         android:id="@+id/etPromoCode" -->
+    <!--         style="@style/MyEditTextFull" -->
+    <!--         android:layout_width="match_parent" -->
+    <!--         android:layout_height="wrap_content" -->
+    <!--         android:layout_marginBottom="@dimen/activity_vertical_margin" -->
+    <!--         android:layout_marginTop="@dimen/activity_vertical_margin" -->
+    <!--         android:hint="@string/text_enter_promo_code" -->
+    <!--         android:singleLine="true" /> -->
+
+    <!--     <LinearLayout -->
+    <!--         android:id="@+id/llErrorMsg" -->
+    <!--         android:layout_width="match_parent" -->
+    <!--         android:layout_height="wrap_content" -->
+    <!--         android:layout_gravity="center" -->
+    <!--         android:layout_margin="@dimen/activity_margin_feedback" -->
+    <!--         android:orientation="horizontal" -->
+    <!--         android:visibility="gone" > -->
+
+    <!--         <ImageView -->
+    <!--             android:id="@+id/ivPromoResult" -->
+    <!--             android:layout_width="wrap_content" -->
+    <!--             android:layout_height="wrap_content" -->
+    <!--             android:layout_gravity="center" -->
+    <!--             android:background="@null" -->
+    <!--             android:src="@drawable/img_promo_result" /> -->
+
+    <!--         <co.za.provac.rider.component.MyFontPopUpTextView -->
+    <!--             android:id="@+id/tvPromoResult" -->
+    <!--             android:layout_width="wrap_content" -->
+    <!--             android:layout_height="wrap_content" -->
+    <!--             android:layout_gravity="center" -->
+    <!--             android:layout_marginLeft="@dimen/activity_horizontal_margin" -->
+    <!--             android:text="@string/err_invalid_promo_code" -->
+    <!--             android:textColor="@drawable/color_promo_result" -->
+    <!--             android:textSize="@dimen/dimen_invoice_baseprice" /> -->
+    <!--     </LinearLayout> -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <com.ondemandbay.taxianytime.component.MyFontButton
+            android:id="@+id/btn_cancel_request"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="0.5dp"
+            android:layout_marginRight="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_small_light"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:text="@string/text_cancel_trip"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontButton
+            android:id="@+id/btnOk"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_btn_small_light"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:text="@string/text_ok"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+    </LinearLayout>
+
+</LinearLayout>

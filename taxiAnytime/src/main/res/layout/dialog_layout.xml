@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/dimen_fp_margin"
+              android:orientation="vertical"
+    >
+
+    <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/toast_register_success"
+        android:textColor="@color/color_text_label"
+        android:textSize="@dimen/size_general"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontButton
+        android:id="@+id/ok_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin"
+        android:background="@color/theme_color"
+        android:text="@string/ok"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_general"/>
+
+</LinearLayout>

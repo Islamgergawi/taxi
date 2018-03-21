@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ellipse_contacting"
+        android:gravity="center"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:orientation="vertical">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_logout"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_dialog_big"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_logout_text"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_dialog_small"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_margin_mainscreen"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvLogoutOk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/feedback_margin"
+                android:background="@drawable/check"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvLogoutCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_close"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

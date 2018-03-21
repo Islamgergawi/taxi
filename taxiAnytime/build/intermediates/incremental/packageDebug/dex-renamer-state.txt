@@ -1,0 +1,7 @@
+#Fri Feb 23 23:55:29 EET 2018
+base.0=C\:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9027544813f9c6cdd75e331675b3c4565449150f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7ada15987a71e0a745cb825747bba05cf5419de\\classes.dex
+base.1=C\:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7ada15987a71e0a745cb825747bba05cf5419de
+file.0=C\:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9027544813f9c6cdd75e331675b3c4565449150f\\classes.dex

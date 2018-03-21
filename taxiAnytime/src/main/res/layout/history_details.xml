@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/layoutAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/layoutSource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvHistoryPickupAddr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingLeft="30dp"
+                    android:paddingStart="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:singleLine="true"
+                    android:text="Kasturba road, Rajkot"
+                    android:textSize="@dimen/dimen_address_textsize"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/layoutSource"
+                android:background="@color/selection_base"/>
+
+            <LinearLayout
+                android:id="@+id/layoutDestination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layoutSource"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvHistoryDestAddr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_history_padding"
+                    android:paddingBottom="@dimen/dimen_address_padding"
+                    android:paddingLeft="30dp"
+                    android:paddingStart="30dp"
+                    android:paddingTop="@dimen/dimen_address_padding"
+                    android:singleLine="true"
+                    android:text="Kalawad Road, Rajkot"
+                    android:textColor="@color/theme_color"
+                    android:textSize="@dimen/dimen_address_textsize"/>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
+                android:src="@drawable/pickup_drop"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <include layout="@layout/progressbar"/>
+
+            <ImageView
+                android:id="@+id/ivHistoryMapBig"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_launcher"/>
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_alignParentBottom="true" -->
+            <!-- android:layout_margin="@dimen/dimen_fp_margin" -->
+            <!-- android:orientation="vertical" > -->
+
+
+            <!-- <ListView -->
+            <!-- android:id="@+id/lvIssues" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:divider="@color/light_gray" -->
+            <!-- android:dividerHeight="1dp" > -->
+            <!-- </ListView> -->
+            <!-- </LinearLayout> -->
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/light_gray"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvHistoryDuration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/colck"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/colck"
+                    android:gravity="center"
+                    android:text="50m"
+                    android:textSize="15.5sp"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/selection_base"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvHistoryDistance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/km"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/km"
+                    android:gravity="center"
+                    android:text="12 KM"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/selection_base"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvHistoryTotalCost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/history_cash"
+                    android:drawablePadding="@dimen/dimen_history_drawble_padding"
+                    android:drawableStart="@drawable/history_cash"
+                    android:gravity="center"
+                    android:text="R50"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- <com.automated.taxinow.driver.widget.MyFontHistoryTextView -->
+        <!-- android:id="@+id/tvNeedHelp" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:background="@drawable/btn_offline" -->
+        <!-- android:gravity="center" -->
+        <!-- android:text="@string/text_need_help" -->
+        <!-- android:textColor="@color/white" -->
+        <!-- android:textSize="@dimen/dimen_button_textsize" /> -->
+    </LinearLayout>
+
+</LinearLayout>

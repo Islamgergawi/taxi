@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\9f0b6d96f7fabcbd17ffcde9799ce08cb3f0e01f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f318194ab9324d7ccc0ee92e420c462b8bda6b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\httpclient-4.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9783d89b8eea20a517a4afc5f979bd2882b54c44">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.5_203813a99c0156d922484795ebc6ce3da0eb3143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\1a12d67ac20b3a21569a25a85b50705c897f60c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59c7d66158715865ccd4c5aaae04037eacacbed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e020d5ceb06a44dafb7ac1930d069be8d0b1d39a">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8954942dcc72345b488a78385ce75c3079c4dbff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7164476ea2136145d5aea770197f0ff863b61ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\da43f524e27ad491bc2da9dabf5d8cbb210da334\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8908247c612588e61a0a5dd853d73eb7a2a486bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\fde38564a47f590d5e39affdebfdc54076427d3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c20d995ee4c2e580d24daf431fb941f41a5d7eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\d44dcc7ac76994c92474181c14b724f5fa2935b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bf6cefca9915122a27be61357276894ee7d3f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\0e1685d2343d6b2c4fd78e3c6874c503bf53ca3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e84d6ec0b6ad49ac46359f7eaf5c89eeb9faad19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\e38a27f79f618d6726522e4d3d90de60894d5623\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_262618b57ff0a4ba3eda585f090584aaef4ed71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\ce5019555a6a8f9e062b4875bcc02a13a29edc08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_304aa17c5404bc2599146d8423f4e7f5853f6e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\httpmime-4.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.5_8775ffc71e19bc6133b1f57a5dd91faeb4288e53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\53b1d26ecfc01dded62815b9371157b4badd8391\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fb648e3321f9556ac5b36485b0028f455350c4a">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f01ba70d2b1e32a7b1737265843d6104fb67c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_7ef103edf7e69104a7a8e912c52f53aeed006d28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\d3aa9591c6e7a2b859cc5e07f80e662135debe32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b00496cd0a6f299b092bf24600d9c622bae15aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1eb6137f6730988d505766f9ae09ea84dd91b11a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\54fad4db946988fd9f61c3d0a572cc26349f7145\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb81d4befd9a2f3b2605773e8e296996ce87172e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\f5df1eec00498d969e076bc0b69a5292d74bf1c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd2d3bfea24a25023d1e3b04fb3218120cc067f4">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adb967be150ce273c602f3d216229495ba03246f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.2_285d4f4d8d265c87ac250c19c0981209766bb241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\59e6582c1d7593a7119e127add25a96383df6e55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_047b2b7240392769985aafec1cdfb9e019efa74e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\f5c1322c29d34e23ca1b34503471adccb5b56cc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c096879df7518b60ca832d2e975723619798e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\cc6e5b7b37d8fd1ae64a731e991756325cbb9e24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20e66a65e1b438a5b0770a85c6f82e5544b34aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\53134498635ec9ac35c95272997b51a7d96c8b40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f754d94dd0728ff0dc7d47bf7ad3d10bc02bf786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6df87a8374ab266649912fb6c4a5985466151013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\android-query.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa997823bc89263500714864ff136de1e6025b4e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\android-query.0.26.7_4a0a127ed0a894a360d41d644f88b9a5104f2e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\d0ecc8f4bf6d445dd44c8e966b408343158b6895\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ad91cdedde07fd40fca1809074fbd04cd46d175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\1b9d351785720cf1f22c08deff7a99da611683d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1519489bad3546ac56412daa4809a650c6202e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\8f14e6ee348825ecebe18bea183221adcafa6499\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9761003e2b5f3832f436b25f2f315e6f8fff0ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7abd38ecf12babcc8cbabb8fa9e7d2b268845b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\2bd7176aef4591b73fccee98971685c0dc69c662\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4efc9aa691ae13a36ef64bd8d8b710245f7a68c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\e26e9afe5169ac7bbacf583846e6998b7a729409\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf83e9f6a64f2555ceb4810513526ec5fc25e593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a959e5ede1c710641493f3f19eb69e81648ae2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\apache-mime4j-core-0.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\apache-mime4j-core-0.7.2_0c3b4da76182ac1ed99e039b24254c64220247e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\80f1f5eb24a8db9f5f68637d88510027ecb052b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ea5193ab4304a0586bd686b1148971499c3be3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_63ebedae0135dda4cbcb1aa52c10be5923034118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_a7b20c0e41ef1fa6bedd7f18cba9b6bffbe8d5f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\1754ed692389c06f018deca73f9d1f62cbb8a95b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3980ee76c5e2d4911abd5e5d5bce02ba21f2662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\64ecaae7dfb63bfa592f671143d5a5d54d8e8f28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f65587a0a0a4dc7e63b82e326f8a5030d2d3818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\b68c73c228a91af2d6f7aff1b7eee9b9c6e1021a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b08a15ba70a3f50c2957bd91116d2086e424dfdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\69b5b4499ccc618e1a8eee24448a5183528e0ead\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d0caf8d47cb6df19187bcff44da8488290edb47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_805ff81b96833cb033763491186ca38b29000aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.0.2_92c74ccb143245098da060d335f961e0ba63892d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.3_7ae9652f6233b18bcee1e287a44ba67d5dd09d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\5ee2bc881a38fbe8167ce7c75547dad6ca5453a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce444c39b78c6f26017134cc3a1f993e66842393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61716449111b236a7a36f1a17044de71f31b7748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\9382073b3339bd5074467ef7942e51be09e7f8b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_716b6b51fa394fe08d9012d7baa0013609dc2869\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\99927a752cc7eded3a6f6bf33ab4ec8da884c40b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ef9c747d2b348890142c0a2304c6a24ca16c1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\0f08b43d0cef47277dab69c3cba04e9dae4fe10c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_096cdf468f2929df2cd00a1cee17e8519293f2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_2d0cf29343dcbb7baf1b5d221743a656ade72639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\2c4fc1296bc213c37237649122ca4b8d6320852e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2d91cabf2a048e6b95ffc7725cf693962601343">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb74527598b173546b3de1443dfc4412ca943749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7ada15987a71e0a745cb825747bba05cf5419de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\cdb4c81e6c34c72ed50357798b57b6b7cee64060\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75dd2ee7ff5a77b4c9bc05a299a939a6f5b83f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\0411d8a9d1a41b9299aa9873bf5603544b594124\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4bf49472738770a36d689a17d2337876b0f8849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\440db526f63d699cfe6237f5754d382065507a5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_347799c13a2a475308bd39a89cd526197704dc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\splunk-mint-4.0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19452a9f6424ddae60c51f97e93cb9bec3dddfd2">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\splunk-mint-4.0.8_2cfd6327116e5df4b33e8c095684172158086638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\5d6b4275eafaa63d63e968bb64254f791c00e932\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe24519ef281576b0577e9522dcde1ffbd41d5b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\779adda02e6663af35002c9eea173ad7b7c6b144\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5547842cd2c710d8c1e1a17a8f9b1f8632154fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\5dcd51d72fafdc57bd72d2d70532faa9ab95cbfe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd3ca3b3afa7345648dd2914ebabcdac545f063b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\549ec6737bb1c0af6e0a9dca67bea983ab4c2517\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_589dd0fdf5280c422b75a66e38875af2c4ae8425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\d62b4917ca0a2774231f35aa9530978a204d2551\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce329a99fc05f1034251289ce9602ae36fc441d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_e3481c67efc442feda3895dc6482535d705b6781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\96a1e0f5b55c12d66bfa3e028d191c800e833350\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba93e42d3a1dc168bbae5eeba6dccbc412862ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\bc09e8013863618af5bb9bef32abd9573b21e00d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_213e8d6c252e662be49b7c759d16200f289885f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\3c612f46dfb964461012487790d148a0f0d89934\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb90b2b76d51d2b45ad7ec10e245b9b3ed62302a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_c429f35279f7e118bfb9f59531b1ba96c5b1dadb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1d1da10daa61b64bb16bbea86bbe961de9be2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\e4cedf6cc49b9dc69828b993c2a0e1fa94f22bb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2f424109e0acd9b77878fb9c12ee6ca2cf3cd83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_ddbec34f821131fb6dbe62ea7d8487b10ac6cc76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\e779dc04f60d4cd6760f9224fda99732a7beff75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee2a1a1e7f12284c5cc38a51ef56b3e0045e8b5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\e0e2f96b28374a99e92112d877de35ce297ca328\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12d18427174f1b6fb48aee51e617fe1d7e947c10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\0e6c6dfeb46614320efefa0aac25170d5f024fff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_656939b2b1592ba7c1d183adde5ed1269619087b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\ef4d76525c389cbc84e7c8055fcf33cc93fe1df1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90eeeac86aded4a4c4f2332491d450ebabfd92a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\.android\build-cache\5cc69c829bc2eaccfe1dfcfaf1aed581e8adb0b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a67577e17fae139c671692a5800b78457739f656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfe89959ce843d7376a927f6b6c981a80125689e">
+        <dex dex="C:\Users\Islam\Desktop\ZGo\taxiAnytime\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9027544813f9c6cdd75e331675b3c4565449150f\classes.dex" />
+    </item>
+
+</items>

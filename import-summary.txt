@@ -1,0 +1,949 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From CircularImageView_Client:
+* CircularImageView.iml
+* build.gradle
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/debug/
+* build/generated/source/buildConfig/debug/com/
+* build/generated/source/buildConfig/debug/com/mikhaellopez/
+* build/generated/source/buildConfig/debug/com/mikhaellopez/circularimageview/
+* build/generated/source/buildConfig/debug/com/mikhaellopez/circularimageview/BuildConfig.java
+* build/generated/source/buildConfig/test/
+* build/generated/source/buildConfig/test/debug/
+* build/generated/source/buildConfig/test/debug/com/
+* build/generated/source/buildConfig/test/debug/com/mikhaellopez/
+* build/generated/source/buildConfig/test/debug/com/mikhaellopez/circularimageview/
+* build/generated/source/buildConfig/test/debug/com/mikhaellopez/circularimageview/test/
+* build/generated/source/buildConfig/test/debug/com/mikhaellopez/circularimageview/test/BuildConfig.java
+* build/generated/source/r/
+* build/generated/source/r/debug/
+* build/generated/source/r/debug/com/
+* build/generated/source/r/debug/com/mikhaellopez/
+* build/generated/source/r/debug/com/mikhaellopez/circularimageview/
+* build/generated/source/r/debug/com/mikhaellopez/circularimageview/R.java
+* build/generated/source/r/test/
+* build/generated/source/r/test/debug/
+* build/generated/source/r/test/debug/com/
+* build/generated/source/r/test/debug/com/mikhaellopez/
+* build/generated/source/r/test/debug/com/mikhaellopez/circularimageview/
+* build/generated/source/r/test/debug/com/mikhaellopez/circularimageview/R.java
+* build/generated/source/r/test/debug/com/mikhaellopez/circularimageview/test/
+* build/generated/source/r/test/debug/com/mikhaellopez/circularimageview/test/R.java
+* build/intermediates/
+* build/intermediates/bundles/
+* build/intermediates/bundles/debug/
+* build/intermediates/bundles/debug/AndroidManifest.xml
+* build/intermediates/bundles/debug/R.txt
+* build/intermediates/bundles/debug/classes.jar
+* build/intermediates/bundles/debug/res/
+* build/intermediates/bundles/debug/res/values/
+* build/intermediates/bundles/debug/res/values/values.xml
+* build/intermediates/classes/
+* build/intermediates/classes/debug/
+* build/intermediates/classes/debug/com/
+* build/intermediates/classes/debug/com/mikhaellopez/
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/BuildConfig.class
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/CircleImageView.class
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/R$attr.class
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/R$styleable.class
+* build/intermediates/classes/debug/com/mikhaellopez/circularimageview/R.class
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/debug/
+* build/intermediates/incremental/aidl/debug/dependency.store
+* build/intermediates/incremental/aidl/test/
+* build/intermediates/incremental/aidl/test/debug/
+* build/intermediates/incremental/aidl/test/debug/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/debug/
+* build/intermediates/incremental/mergeAssets/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/test/
+* build/intermediates/incremental/mergeAssets/test/debug/
+* build/intermediates/incremental/mergeAssets/test/debug/merger.xml
+* build/intermediates/incremental/mergeResources/
+* build/intermediates/incremental/mergeResources/test/
+* build/intermediates/incremental/mergeResources/test/debug/
+* build/intermediates/incremental/mergeResources/test/debug/merger.xml
+* build/intermediates/incremental/packageResources/
+* build/intermediates/incremental/packageResources/debug/
+* build/intermediates/incremental/packageResources/debug/merger.xml
+* build/intermediates/manifests/
+* build/intermediates/manifests/test/
+* build/intermediates/manifests/test/debug/
+* build/intermediates/manifests/test/debug/AndroidManifest.xml
+* build/intermediates/manifests/tmp/
+* build/intermediates/manifests/tmp/manifestMerger714334719773029399.xml
+* build/intermediates/res/
+* build/intermediates/res/resources-debug-test.ap_
+* build/intermediates/res/test/
+* build/intermediates/res/test/debug/
+* build/intermediates/res/test/debug/values/
+* build/intermediates/res/test/debug/values/values.xml
+* build/intermediates/symbols/
+* build/intermediates/symbols/test/
+* build/intermediates/symbols/test/debug/
+* build/intermediates/symbols/test/debug/R.txt
+* build/outputs/
+* build/outputs/aar/
+* build/outputs/aar/CircularImageView-debug.aar
+* build/tmp/
+* build/tmp/packageDebugJar/
+* build/tmp/packageDebugJar/MANIFEST.MF
+* proguard-project.txt
+From FacebookSDK:
+* FacebookSDK.iml
+* build.gradle
+* build.xml
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/debug/
+* build/generated/source/buildConfig/debug/com/
+* build/generated/source/buildConfig/debug/com/facebook/
+* build/generated/source/buildConfig/debug/com/facebook/android/
+* build/generated/source/buildConfig/debug/com/facebook/android/BuildConfig.java
+* build/generated/source/buildConfig/test/
+* build/generated/source/buildConfig/test/debug/
+* build/generated/source/buildConfig/test/debug/com/
+* build/generated/source/buildConfig/test/debug/com/facebook/
+* build/generated/source/buildConfig/test/debug/com/facebook/android/
+* build/generated/source/buildConfig/test/debug/com/facebook/android/test/
+* build/generated/source/buildConfig/test/debug/com/facebook/android/test/BuildConfig.java
+* build/generated/source/r/
+* build/generated/source/r/debug/
+* build/generated/source/r/debug/com/
+* build/generated/source/r/debug/com/facebook/
+* build/generated/source/r/debug/com/facebook/android/
+* build/generated/source/r/debug/com/facebook/android/R.java
+* build/generated/source/r/test/
+* build/generated/source/r/test/debug/
+* build/generated/source/r/test/debug/com/
+* build/generated/source/r/test/debug/com/facebook/
+* build/generated/source/r/test/debug/com/facebook/android/
+* build/generated/source/r/test/debug/com/facebook/android/R.java
+* build/generated/source/r/test/debug/com/facebook/android/test/
+* build/generated/source/r/test/debug/com/facebook/android/test/R.java
+* build/intermediates/
+* build/intermediates/bundles/
+* build/intermediates/bundles/debug/
+* build/intermediates/bundles/debug/AndroidManifest.xml
+* build/intermediates/bundles/debug/R.txt
+* build/intermediates/bundles/debug/classes.jar
+* build/intermediates/bundles/debug/libs/
+* build/intermediates/bundles/debug/libs/android-support-v4.jar
+* build/intermediates/bundles/debug/libs/bolts-android-1.1.2.jar
+* build/intermediates/bundles/debug/res/
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_close.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_logo.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/bundles/debug/res/drawable-ldpi-v4/
+* build/intermediates/bundles/debug/res/drawable-ldpi-v4/com_facebook_close.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_close.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_logo.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/bundles/debug/res/drawable/
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_focused.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_normal.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_check.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_check_off.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_check_on.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_focused.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_normal.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_close.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_inverse_icon.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_list_divider.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_list_section_header_background.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_loginbutton_silver.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_logo.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_item_background.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_focused.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_longpressed.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_pressed.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector_background_transition.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_picker_top_button.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_place_default_icon.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_profile_default_icon.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_profile_picture_blank_portrait.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_profile_picture_blank_square.png
+* build/intermediates/bundles/debug/res/drawable/com_facebook_top_background.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_top_button.xml
+* build/intermediates/bundles/debug/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+* build/intermediates/bundles/debug/res/layout/
+* build/intermediates/bundles/debug/res/layout/com_facebook_friendpickerfragment.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_login_activity_layout.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_activity_circle_row.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_checkbox.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_image.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_list_row.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_list_section_header.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_search_box.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_title_bar.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_picker_title_bar_stub.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_placepickerfragment.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_placepickerfragment_list_row.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_search_bar_layout.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_tooltip_bubble.xml
+* build/intermediates/bundles/debug/res/layout/com_facebook_usersettingsfragment.xml
+* build/intermediates/bundles/debug/res/values-es/
+* build/intermediates/bundles/debug/res/values-es/values.xml
+* build/intermediates/bundles/debug/res/values-hdpi-v4/
+* build/intermediates/bundles/debug/res/values-hdpi-v4/values.xml
+* build/intermediates/bundles/debug/res/values-he/
+* build/intermediates/bundles/debug/res/values-he/values.xml
+* build/intermediates/bundles/debug/res/values-iw/
+* build/intermediates/bundles/debug/res/values-iw/values.xml
+* build/intermediates/bundles/debug/res/values-ldpi-v4/
+* build/intermediates/bundles/debug/res/values-ldpi-v4/values.xml
+* build/intermediates/bundles/debug/res/values-mdpi-v4/
+* build/intermediates/bundles/debug/res/values-mdpi-v4/values.xml
+* build/intermediates/bundles/debug/res/values-xhdpi-v4/
+* build/intermediates/bundles/debug/res/values-xhdpi-v4/values.xml
+* build/intermediates/bundles/debug/res/values/
+* build/intermediates/bundles/debug/res/values/values.xml
+* build/intermediates/classes/
+* build/intermediates/classes/debug/
+* build/intermediates/classes/debug/com/
+* build/intermediates/classes/debug/com/facebook/
+* build/intermediates/classes/debug/com/facebook/AccessToken$1.class
+* build/intermediates/classes/debug/com/facebook/AccessToken$SerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/AccessToken$SerializationProxyV2.class
+* build/intermediates/classes/debug/com/facebook/AccessToken.class
+* build/intermediates/classes/debug/com/facebook/AccessTokenSource.class
+* build/intermediates/classes/debug/com/facebook/AppEventsConstants.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$1.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$2.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$3.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$4.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$5.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$6.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$7.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$AccessTokenAppIdPair$SerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$AccessTokenAppIdPair.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$AppEvent$SerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$AppEvent.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$FlushBehavior.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$FlushReason.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$FlushResult.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$FlushStatistics.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$PersistedAppSessionInfo$1.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$PersistedAppSessionInfo.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$PersistedEvents.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger$SessionEventsState.class
+* build/intermediates/classes/debug/com/facebook/AppEventsLogger.class
+* build/intermediates/classes/debug/com/facebook/AppLinkData$1.class
+* build/intermediates/classes/debug/com/facebook/AppLinkData$CompletionHandler.class
+* build/intermediates/classes/debug/com/facebook/AppLinkData.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$1.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$2.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$3.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$4.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$5.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$AuthDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$AuthHandler.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$AuthorizationRequest.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$BackgroundProcessingListener.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$GetTokenAuthHandler$1.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$GetTokenAuthHandler.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$KatanaAuthHandler.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$KatanaProxyAuthHandler.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$OnCompletedListener.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$Result$Code.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$Result.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$StartActivityDelegate.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$WebViewAuthHandler$1.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient$WebViewAuthHandler.class
+* build/intermediates/classes/debug/com/facebook/AuthorizationClient.class
+* build/intermediates/classes/debug/com/facebook/BoltsMeasurementEventListener.class
+* build/intermediates/classes/debug/com/facebook/FacebookAppLinkResolver$1.class
+* build/intermediates/classes/debug/com/facebook/FacebookAppLinkResolver$2.class
+* build/intermediates/classes/debug/com/facebook/FacebookAppLinkResolver.class
+* build/intermediates/classes/debug/com/facebook/FacebookAuthorizationException.class
+* build/intermediates/classes/debug/com/facebook/FacebookBroadcastReceiver.class
+* build/intermediates/classes/debug/com/facebook/FacebookDialogException.class
+* build/intermediates/classes/debug/com/facebook/FacebookException.class
+* build/intermediates/classes/debug/com/facebook/FacebookGraphObjectException.class
+* build/intermediates/classes/debug/com/facebook/FacebookOperationCanceledException.class
+* build/intermediates/classes/debug/com/facebook/FacebookRequestError$1.class
+* build/intermediates/classes/debug/com/facebook/FacebookRequestError$Category.class
+* build/intermediates/classes/debug/com/facebook/FacebookRequestError$Range.class
+* build/intermediates/classes/debug/com/facebook/FacebookRequestError.class
+* build/intermediates/classes/debug/com/facebook/FacebookSdkVersion.class
+* build/intermediates/classes/debug/com/facebook/FacebookServiceException.class
+* build/intermediates/classes/debug/com/facebook/FacebookTimeSpentData$1.class
+* build/intermediates/classes/debug/com/facebook/FacebookTimeSpentData$SerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/FacebookTimeSpentData$SerializationProxyV2.class
+* build/intermediates/classes/debug/com/facebook/FacebookTimeSpentData.class
+* build/intermediates/classes/debug/com/facebook/GetTokenClient.class
+* build/intermediates/classes/debug/com/facebook/HttpMethod.class
+* build/intermediates/classes/debug/com/facebook/InsightsLogger.class
+* build/intermediates/classes/debug/com/facebook/LegacyHelper.class
+* build/intermediates/classes/debug/com/facebook/LoggingBehavior.class
+* build/intermediates/classes/debug/com/facebook/LoginActivity$1.class
+* build/intermediates/classes/debug/com/facebook/LoginActivity$2.class
+* build/intermediates/classes/debug/com/facebook/LoginActivity.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallAttachmentStore$1.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallAttachmentStore$2.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallAttachmentStore$ProcessAttachment.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallAttachmentStore.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallContentProvider$AttachmentDataSource.class
+* build/intermediates/classes/debug/com/facebook/NativeAppCallContentProvider.class
+* build/intermediates/classes/debug/com/facebook/NonCachingTokenCachingStrategy.class
+* build/intermediates/classes/debug/com/facebook/ProgressNoopOutputStream.class
+* build/intermediates/classes/debug/com/facebook/ProgressOutputStream$1.class
+* build/intermediates/classes/debug/com/facebook/ProgressOutputStream.class
+* build/intermediates/classes/debug/com/facebook/Request$1.class
+* build/intermediates/classes/debug/com/facebook/Request$2.class
+* build/intermediates/classes/debug/com/facebook/Request$3.class
+* build/intermediates/classes/debug/com/facebook/Request$4.class
+* build/intermediates/classes/debug/com/facebook/Request$5.class
+* build/intermediates/classes/debug/com/facebook/Request$Attachment.class
+* build/intermediates/classes/debug/com/facebook/Request$Callback.class
+* build/intermediates/classes/debug/com/facebook/Request$GraphPlaceListCallback.class
+* build/intermediates/classes/debug/com/facebook/Request$GraphUserCallback.class
+* build/intermediates/classes/debug/com/facebook/Request$GraphUserListCallback.class
+* build/intermediates/classes/debug/com/facebook/Request$KeyValueSerializer.class
+* build/intermediates/classes/debug/com/facebook/Request$OnProgressCallback.class
+* build/intermediates/classes/debug/com/facebook/Request$ParcelFileDescriptorWithMimeType$1.class
+* build/intermediates/classes/debug/com/facebook/Request$ParcelFileDescriptorWithMimeType.class
+* build/intermediates/classes/debug/com/facebook/Request$Serializer.class
+* build/intermediates/classes/debug/com/facebook/Request.class
+* build/intermediates/classes/debug/com/facebook/RequestAsyncTask.class
+* build/intermediates/classes/debug/com/facebook/RequestBatch$Callback.class
+* build/intermediates/classes/debug/com/facebook/RequestBatch$OnProgressCallback.class
+* build/intermediates/classes/debug/com/facebook/RequestBatch.class
+* build/intermediates/classes/debug/com/facebook/RequestOutputStream.class
+* build/intermediates/classes/debug/com/facebook/RequestProgress$1.class
+* build/intermediates/classes/debug/com/facebook/RequestProgress.class
+* build/intermediates/classes/debug/com/facebook/Response$PagedResults.class
+* build/intermediates/classes/debug/com/facebook/Response$PagingDirection.class
+* build/intermediates/classes/debug/com/facebook/Response$PagingInfo.class
+* build/intermediates/classes/debug/com/facebook/Response.class
+* build/intermediates/classes/debug/com/facebook/Session$1.class
+* build/intermediates/classes/debug/com/facebook/Session$2.class
+* build/intermediates/classes/debug/com/facebook/Session$3.class
+* build/intermediates/classes/debug/com/facebook/Session$4$1.class
+* build/intermediates/classes/debug/com/facebook/Session$4.class
+* build/intermediates/classes/debug/com/facebook/Session$5.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest$1.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest$2.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest$3.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest$4.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest$AuthRequestSerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/Session$AuthorizationRequest.class
+* build/intermediates/classes/debug/com/facebook/Session$AutoPublishAsyncTask.class
+* build/intermediates/classes/debug/com/facebook/Session$Builder.class
+* build/intermediates/classes/debug/com/facebook/Session$NewPermissionsRequest.class
+* build/intermediates/classes/debug/com/facebook/Session$OpenRequest.class
+* build/intermediates/classes/debug/com/facebook/Session$PermissionsPair.class
+* build/intermediates/classes/debug/com/facebook/Session$SerializationProxyV1.class
+* build/intermediates/classes/debug/com/facebook/Session$SerializationProxyV2.class
+* build/intermediates/classes/debug/com/facebook/Session$StartActivityDelegate.class
+* build/intermediates/classes/debug/com/facebook/Session$StatusCallback.class
+* build/intermediates/classes/debug/com/facebook/Session$TokenRefreshRequest.class
+* build/intermediates/classes/debug/com/facebook/Session$TokenRefreshRequestHandler.class
+* build/intermediates/classes/debug/com/facebook/Session.class
+* build/intermediates/classes/debug/com/facebook/SessionDefaultAudience.class
+* build/intermediates/classes/debug/com/facebook/SessionLoginBehavior.class
+* build/intermediates/classes/debug/com/facebook/SessionState$Category.class
+* build/intermediates/classes/debug/com/facebook/SessionState.class
+* build/intermediates/classes/debug/com/facebook/Settings$1.class
+* build/intermediates/classes/debug/com/facebook/Settings$2$1.class
+* build/intermediates/classes/debug/com/facebook/Settings$2.class
+* build/intermediates/classes/debug/com/facebook/Settings.class
+* build/intermediates/classes/debug/com/facebook/SharedPreferencesTokenCachingStrategy.class
+* build/intermediates/classes/debug/com/facebook/TestSession$1.class
+* build/intermediates/classes/debug/com/facebook/TestSession$Mode.class
+* build/intermediates/classes/debug/com/facebook/TestSession$TestAccount.class
+* build/intermediates/classes/debug/com/facebook/TestSession$TestAccountsResponse.class
+* build/intermediates/classes/debug/com/facebook/TestSession$TestTokenCachingStrategy.class
+* build/intermediates/classes/debug/com/facebook/TestSession.class
+* build/intermediates/classes/debug/com/facebook/TokenCachingStrategy.class
+* build/intermediates/classes/debug/com/facebook/UiLifecycleHelper$1.class
+* build/intermediates/classes/debug/com/facebook/UiLifecycleHelper$ActiveSessionBroadcastReceiver.class
+* build/intermediates/classes/debug/com/facebook/UiLifecycleHelper.class
+* build/intermediates/classes/debug/com/facebook/android/
+* build/intermediates/classes/debug/com/facebook/android/AsyncFacebookRunner$1.class
+* build/intermediates/classes/debug/com/facebook/android/AsyncFacebookRunner$2.class
+* build/intermediates/classes/debug/com/facebook/android/AsyncFacebookRunner$RequestListener.class
+* build/intermediates/classes/debug/com/facebook/android/AsyncFacebookRunner.class
+* build/intermediates/classes/debug/com/facebook/android/BuildConfig.class
+* build/intermediates/classes/debug/com/facebook/android/DialogError.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$1.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$DialogListener.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$ServiceListener.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$SetterTokenCachingStrategy.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$TokenRefreshConnectionHandler.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook$TokenRefreshServiceConnection.class
+* build/intermediates/classes/debug/com/facebook/android/Facebook.class
+* build/intermediates/classes/debug/com/facebook/android/FacebookError.class
+* build/intermediates/classes/debug/com/facebook/android/FbDialog$1.class
+* build/intermediates/classes/debug/com/facebook/android/FbDialog.class
+* build/intermediates/classes/debug/com/facebook/android/R$attr.class
+* build/intermediates/classes/debug/com/facebook/android/R$color.class
+* build/intermediates/classes/debug/com/facebook/android/R$dimen.class
+* build/intermediates/classes/debug/com/facebook/android/R$drawable.class
+* build/intermediates/classes/debug/com/facebook/android/R$id.class
+* build/intermediates/classes/debug/com/facebook/android/R$layout.class
+* build/intermediates/classes/debug/com/facebook/android/R$string.class
+* build/intermediates/classes/debug/com/facebook/android/R$style.class
+* build/intermediates/classes/debug/com/facebook/android/R$styleable.class
+* build/intermediates/classes/debug/com/facebook/android/R.class
+* build/intermediates/classes/debug/com/facebook/android/Util.class
+* build/intermediates/classes/debug/com/facebook/internal/
+* build/intermediates/classes/debug/com/facebook/internal/AnalyticsEvents.class
+* build/intermediates/classes/debug/com/facebook/internal/AttributionIdentifiers.class
+* build/intermediates/classes/debug/com/facebook/internal/CacheableRequestBatch.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$1.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$2.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$3.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$BufferFile$1.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$BufferFile$2.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$BufferFile.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$CloseCallbackOutputStream.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$CopyingInputStream.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$Limits.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$ModifiedFile.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$StreamCloseCallback.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache$StreamHeader.class
+* build/intermediates/classes/debug/com/facebook/internal/FileLruCache.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader$1.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader$CacheReadWorkItem.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader$DownloadImageWorkItem.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader$DownloaderContext.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader$RequestKey.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageDownloader.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageRequest$1.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageRequest$Builder.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageRequest$Callback.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageRequest.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageResponse.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageResponseCache$BufferedHttpInputStream.class
+* build/intermediates/classes/debug/com/facebook/internal/ImageResponseCache.class
+* build/intermediates/classes/debug/com/facebook/internal/Logger.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol$1.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol$KatanaAppInfo.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol$MessengerAppInfo.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol$NativeAppInfo.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol$WakizashiAppInfo.class
+* build/intermediates/classes/debug/com/facebook/internal/NativeProtocol.class
+* build/intermediates/classes/debug/com/facebook/internal/PlatformServiceClient$1.class
+* build/intermediates/classes/debug/com/facebook/internal/PlatformServiceClient$CompletedListener.class
+* build/intermediates/classes/debug/com/facebook/internal/PlatformServiceClient.class
+* build/intermediates/classes/debug/com/facebook/internal/ServerProtocol.class
+* build/intermediates/classes/debug/com/facebook/internal/SessionAuthorizationType.class
+* build/intermediates/classes/debug/com/facebook/internal/SessionTracker$1.class
+* build/intermediates/classes/debug/com/facebook/internal/SessionTracker$ActiveSessionBroadcastReceiver.class
+* build/intermediates/classes/debug/com/facebook/internal/SessionTracker$CallbackWrapper.class
+* build/intermediates/classes/debug/com/facebook/internal/SessionTracker.class
+* build/intermediates/classes/debug/com/facebook/internal/UrlRedirectCache.class
+* build/intermediates/classes/debug/com/facebook/internal/Utility$1.class
+* build/intermediates/classes/debug/com/facebook/internal/Utility$FetchedAppSettings.class
+* build/intermediates/classes/debug/com/facebook/internal/Utility.class
+* build/intermediates/classes/debug/com/facebook/internal/Validate.class
+* build/intermediates/classes/debug/com/facebook/internal/WorkQueue$1.class
+* build/intermediates/classes/debug/com/facebook/internal/WorkQueue$WorkItem.class
+* build/intermediates/classes/debug/com/facebook/internal/WorkQueue$WorkNode.class
+* build/intermediates/classes/debug/com/facebook/internal/WorkQueue.class
+* build/intermediates/classes/debug/com/facebook/model/
+* build/intermediates/classes/debug/com/facebook/model/CreateGraphObject.class
+* build/intermediates/classes/debug/com/facebook/model/GraphLocation.class
+* build/intermediates/classes/debug/com/facebook/model/GraphMultiResult.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject$Factory$GraphObjectListImpl.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject$Factory$GraphObjectProxy$1.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject$Factory$GraphObjectProxy.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject$Factory$ProxyBase.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject$Factory.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObject.class
+* build/intermediates/classes/debug/com/facebook/model/GraphObjectList.class
+* build/intermediates/classes/debug/com/facebook/model/GraphPlace.class
+* build/intermediates/classes/debug/com/facebook/model/GraphUser.class
+* build/intermediates/classes/debug/com/facebook/model/JsonUtil$JSONObjectEntry.class
+* build/intermediates/classes/debug/com/facebook/model/JsonUtil.class
+* build/intermediates/classes/debug/com/facebook/model/OpenGraphAction$Factory.class
+* build/intermediates/classes/debug/com/facebook/model/OpenGraphAction.class
+* build/intermediates/classes/debug/com/facebook/model/OpenGraphObject$Factory.class
+* build/intermediates/classes/debug/com/facebook/model/OpenGraphObject.class
+* build/intermediates/classes/debug/com/facebook/model/PropertyName.class
+* build/intermediates/classes/debug/com/facebook/widget/
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$1.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$Builder$1.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$Builder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$Callback.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$DialogFeature.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$MessageDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$MessageDialogFeature.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OnPresentCallback.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OpenGraphActionDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OpenGraphActionDialogFeature.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OpenGraphDialogBuilderBase.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OpenGraphMessageDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$OpenGraphMessageDialogFeature.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$PendingCall$1.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$PendingCall.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$PhotoDialogBuilderBase.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$PhotoMessageDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$PhotoShareDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$ShareDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$ShareDialogBuilderBase.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog$ShareDialogFeature.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookDialog.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookFragment$1.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookFragment$DefaultSessionStatusCallback.class
+* build/intermediates/classes/debug/com/facebook/widget/FacebookFragment.class
+* build/intermediates/classes/debug/com/facebook/widget/FriendPickerFragment$1.class
+* build/intermediates/classes/debug/com/facebook/widget/FriendPickerFragment$FriendPickerType.class
+* build/intermediates/classes/debug/com/facebook/widget/FriendPickerFragment$ImmediateLoadingStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/FriendPickerFragment.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$1.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$2.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$3.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$DataNeededListener.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$Filter.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$ItemPicture.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$ItemPictureData.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$OnErrorListener.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$SectionAndItem$Type.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter$SectionAndItem.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectAdapter.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectCursor.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader$1.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader$2.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader$3.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader$OnErrorListener.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader$PagedResults.class
+* build/intermediates/classes/debug/com/facebook/widget/GraphObjectPagingLoader.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$1.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$2.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$LoginButtonCallback.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$LoginButtonProperties.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$LoginClickListener$1.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$LoginClickListener.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$OnErrorListener.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$ToolTipMode.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton$UserInfoChangedCallback.class
+* build/intermediates/classes/debug/com/facebook/widget/LoginButton.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$1.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$2.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$3.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$4.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$5.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$6.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$GraphObjectFilter.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$LoadingStrategy$1.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$LoadingStrategy$2.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$LoadingStrategy$3.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$LoadingStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$MultiSelectionStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$OnDataChangedListener.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$OnDoneButtonClickedListener.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$OnErrorListener.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$OnSelectionChangedListener.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$PickerFragmentAdapter.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$SelectionStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment$SingleSelectionStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/PickerFragment.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$1.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$2.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$3.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$AsNeededLoadingStrategy$1.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$AsNeededLoadingStrategy.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment$SearchTextWatcher.class
+* build/intermediates/classes/debug/com/facebook/widget/PlacePickerFragment.class
+* build/intermediates/classes/debug/com/facebook/widget/ProfilePictureView$1.class
+* build/intermediates/classes/debug/com/facebook/widget/ProfilePictureView$OnErrorListener.class
+* build/intermediates/classes/debug/com/facebook/widget/ProfilePictureView.class
+* build/intermediates/classes/debug/com/facebook/widget/SimpleGraphObjectCursor.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup$1.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup$2.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup$3.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup$PopupContentView.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup$Style.class
+* build/intermediates/classes/debug/com/facebook/widget/ToolTipPopup.class
+* build/intermediates/classes/debug/com/facebook/widget/UserSettingsFragment$1.class
+* build/intermediates/classes/debug/com/facebook/widget/UserSettingsFragment$2.class
+* build/intermediates/classes/debug/com/facebook/widget/UserSettingsFragment.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$1.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$2.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$3.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$Builder.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$BuilderBase.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$DialogWebViewClient.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$FeedDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$OnCompleteListener.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog$RequestsDialogBuilder.class
+* build/intermediates/classes/debug/com/facebook/widget/WebDialog.class
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/debug/
+* build/intermediates/incremental/aidl/debug/dependency.store
+* build/intermediates/incremental/aidl/test/
+* build/intermediates/incremental/aidl/test/debug/
+* build/intermediates/incremental/aidl/test/debug/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/debug/
+* build/intermediates/incremental/mergeAssets/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/test/
+* build/intermediates/incremental/mergeAssets/test/debug/
+* build/intermediates/incremental/mergeAssets/test/debug/merger.xml
+* build/intermediates/incremental/mergeResources/
+* build/intermediates/incremental/mergeResources/test/
+* build/intermediates/incremental/mergeResources/test/debug/
+* build/intermediates/incremental/mergeResources/test/debug/merger.xml
+* build/intermediates/incremental/packageResources/
+* build/intermediates/incremental/packageResources/debug/
+* build/intermediates/incremental/packageResources/debug/merger.xml
+* build/intermediates/manifests/
+* build/intermediates/manifests/test/
+* build/intermediates/manifests/test/debug/
+* build/intermediates/manifests/test/debug/AndroidManifest.xml
+* build/intermediates/manifests/tmp/
+* build/intermediates/manifests/tmp/manifestMerger8100045376062915732.xml
+* build/intermediates/res/
+* build/intermediates/res/resources-debug-test.ap_
+* build/intermediates/res/test/
+* build/intermediates/res/test/debug/
+* build/intermediates/res/test/debug/drawable-hdpi-v4/
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_close.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_logo.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/res/test/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/res/test/debug/drawable-ldpi-v4/
+* build/intermediates/res/test/debug/drawable-ldpi-v4/com_facebook_close.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/res/test/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_blue_focused.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_blue_normal.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_close.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_inverse_icon.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_logo.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_picker_magnifier.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+* build/intermediates/res/test/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+* build/intermediates/res/test/debug/drawable/
+* build/intermediates/res/test/debug/drawable/com_facebook_button_blue.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_button_blue_focused.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_blue_normal.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_blue_pressed.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_check.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_button_check_off.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_check_on.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_grey_focused.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_grey_normal.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_button_grey_pressed.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_close.png
+* build/intermediates/res/test/debug/drawable/com_facebook_inverse_icon.png
+* build/intermediates/res/test/debug/drawable/com_facebook_list_divider.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_list_section_header_background.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_loginbutton_silver.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_logo.png
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_item_background.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_focused.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_longpressed.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_pressed.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_selector.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_selector_background_transition.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_list_selector_disabled.9.png
+* build/intermediates/res/test/debug/drawable/com_facebook_picker_top_button.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_place_default_icon.png
+* build/intermediates/res/test/debug/drawable/com_facebook_profile_default_icon.png
+* build/intermediates/res/test/debug/drawable/com_facebook_profile_picture_blank_portrait.png
+* build/intermediates/res/test/debug/drawable/com_facebook_profile_picture_blank_square.png
+* build/intermediates/res/test/debug/drawable/com_facebook_top_background.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_top_button.xml
+* build/intermediates/res/test/debug/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+* build/intermediates/res/test/debug/layout/
+* build/intermediates/res/test/debug/layout/com_facebook_friendpickerfragment.xml
+* build/intermediates/res/test/debug/layout/com_facebook_login_activity_layout.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_activity_circle_row.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_checkbox.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_image.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_list_row.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_list_section_header.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_search_box.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_title_bar.xml
+* build/intermediates/res/test/debug/layout/com_facebook_picker_title_bar_stub.xml
+* build/intermediates/res/test/debug/layout/com_facebook_placepickerfragment.xml
+* build/intermediates/res/test/debug/layout/com_facebook_placepickerfragment_list_row.xml
+* build/intermediates/res/test/debug/layout/com_facebook_search_bar_layout.xml
+* build/intermediates/res/test/debug/layout/com_facebook_tooltip_bubble.xml
+* build/intermediates/res/test/debug/layout/com_facebook_usersettingsfragment.xml
+* build/intermediates/res/test/debug/values-es/
+* build/intermediates/res/test/debug/values-es/values.xml
+* build/intermediates/res/test/debug/values-hdpi-v4/
+* build/intermediates/res/test/debug/values-hdpi-v4/values.xml
+* build/intermediates/res/test/debug/values-he/
+* build/intermediates/res/test/debug/values-he/values.xml
+* build/intermediates/res/test/debug/values-iw/
+* build/intermediates/res/test/debug/values-iw/values.xml
+* build/intermediates/res/test/debug/values-ldpi-v4/
+* build/intermediates/res/test/debug/values-ldpi-v4/values.xml
+* build/intermediates/res/test/debug/values-mdpi-v4/
+* build/intermediates/res/test/debug/values-mdpi-v4/values.xml
+* build/intermediates/res/test/debug/values-xhdpi-v4/
+* build/intermediates/res/test/debug/values-xhdpi-v4/values.xml
+* build/intermediates/res/test/debug/values/
+* build/intermediates/res/test/debug/values/values.xml
+* build/intermediates/symbols/
+* build/intermediates/symbols/test/
+* build/intermediates/symbols/test/debug/
+* build/intermediates/symbols/test/debug/R.txt
+* build/outputs/
+* build/outputs/aar/
+* build/outputs/aar/FacebookSDK-debug.aar
+* build/tmp/
+* build/tmp/packageDebugJar/
+* build/tmp/packageDebugJar/MANIFEST.MF
+From Taxi Anytime:
+* .idea/
+* .idea/.name
+* .idea/Taxi Anytime.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* proguard-project.txt
+From fancylibrary:
+* ant.properties
+* build.xml
+* proguard-project.txt
+From library_pinnlistivew:
+* proguard-project.txt
+From stripeLibrary:
+* build.gradle
+* gradle.properties
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:18.0.0
+gcm.jar => com.google.android.gms:play-services:+
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:18.0.0]
+google-play-services_lib_three => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In CircularImageView_Client:
+* AndroidManifest.xml => circularImageView_Client/src/main/AndroidManifest.xml
+* lint.xml => circularImageView_Client/lint.xml
+* res/ => circularImageView_Client/src/main/res/
+* src/ => circularImageView_Client/src/main/java/
+In CropLibrary:
+* AndroidManifest.xml => cropLibrary/src/main/AndroidManifest.xml
+* assets/ => cropLibrary/src/main/assets
+* lint.xml => cropLibrary/lint.xml
+* res/ => cropLibrary/src/main/res/
+* src/ => cropLibrary/src/main/java/
+In FacebookSDK:
+* AndroidManifest.xml => facebookSDK/src/main/AndroidManifest.xml
+* libs/bolts-android-1.1.2.jar => facebookSDK/libs/bolts-android-1.1.2.jar
+* lint.xml => facebookSDK/lint.xml
+* res/ => facebookSDK/src/main/res/
+* src/ => facebookSDK/src/main/java/
+In fancylibrary:
+* AndroidManifest.xml => fancylibrary/src/main/AndroidManifest.xml
+* assets/ => fancylibrary/src/main/assets
+* res/ => fancylibrary/src/main/res/
+* src/ => fancylibrary/src/main/java/
+In library_pinnlistivew:
+* AndroidManifest.xml => library_pinnlistivew/src/main/AndroidManifest.xml
+* assets/ => library_pinnlistivew/src/main/assets/
+* res/ => library_pinnlistivew/src/main/res/
+* src/ => library_pinnlistivew/src/main/java/
+In stripeLibrary:
+* /vol2/AndroidStudioWorkspace/TaxiAnyTime/ => stripeLibrary/src/main/java/
+* AndroidManifest.xml => stripeLibrary/src/main/AndroidManifest.xml
+* assets/ => stripeLibrary/src/main/assets
+* libs/stripe-java-1.15.1.jar => stripeLibrary/libs/stripe-java-1.15.1.jar
+* res/ => stripeLibrary/src/main/res/
+* src/main/java/ => stripeLibrary/src/main/java/
+In Taxi Anytime:
+* AndroidManifest.xml => taxiAnytime/src/main/AndroidManifest.xml
+* assets/ => taxiAnytime/src/main/assets/
+* libs/android-query.0.26.7.jar => taxiAnytime/libs/android-query.0.26.7.jar
+* libs/android-support-v7-recyclerview.jar => taxiAnytime/libs/android-support-v7-recyclerview.jar
+* libs/apache-mime4j-core-0.7.2.jar => taxiAnytime/libs/apache-mime4j-core-0.7.2.jar
+* libs/arm64-v8a/libcardioDecider.so => taxiAnytime/src/main/jniLibs/arm64-v8a/libcardioDecider.so
+* libs/armeabi-v7a/libcardioDecider.so => taxiAnytime/src/main/jniLibs/armeabi-v7a/libcardioDecider.so
+* libs/armeabi-v7a/libcardioRecognizer.so => taxiAnytime/src/main/jniLibs/armeabi-v7a/libcardioRecognizer.so
+* libs/armeabi-v7a/libcardioRecognizer_tegra2.so => taxiAnytime/src/main/jniLibs/armeabi-v7a/libcardioRecognizer_tegra2.so
+* libs/armeabi-v7a/libopencv_core.so => taxiAnytime/src/main/jniLibs/armeabi-v7a/libopencv_core.so
+* libs/armeabi-v7a/libopencv_imgproc.so => taxiAnytime/src/main/jniLibs/armeabi-v7a/libopencv_imgproc.so
+* libs/armeabi/libcardioDecider.so => taxiAnytime/src/main/jniLibs/armeabi/libcardioDecider.so
+* libs/classes.jar => taxiAnytime/libs/classes.jar
+* libs/httpclient-4.3.5.jar => taxiAnytime/libs/httpclient-4.3.5.jar
+* libs/httpcore-4.3.2.jar => taxiAnytime/libs/httpcore-4.3.2.jar
+* libs/httpmime-4.3.5.jar => taxiAnytime/libs/httpmime-4.3.5.jar
+* libs/mips/libcardioDecider.so => taxiAnytime/src/main/jniLibs/mips/libcardioDecider.so
+* libs/mips64/libcardioDecider.so => taxiAnytime/src/main/jniLibs/mips64/libcardioDecider.so
+* libs/mobile.connect-android-1.7.2.jar => taxiAnytime/libs/mobile.connect-android-1.7.2.jar
+* libs/simple.facebook-2.1.jar => taxiAnytime/libs/simple.facebook-2.1.jar
+* libs/splunk-mint-4.0.8.jar => taxiAnytime/libs/splunk-mint-4.0.8.jar
+* libs/x86/libcardioDecider.so => taxiAnytime/src/main/jniLibs/x86/libcardioDecider.so
+* libs/x86_64/libcardioDecider.so => taxiAnytime/src/main/jniLibs/x86_64/libcardioDecider.so
+* lint.xml => taxiAnytime/lint.xml
+* res/ => taxiAnytime/src/main/res/
+* src/ => taxiAnytime/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

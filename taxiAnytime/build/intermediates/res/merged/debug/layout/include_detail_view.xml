@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/includeDriver"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/dimen_fp_margin"
+            android:paddingLeft="@dimen/margin_legt_name_star"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/dimen_fp_margin">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+                android:id="@+id/tvDriverName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medium Text"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_general"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+                android:id="@+id/tvRateStar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="@dimen/dimen_fp_margin_top"
+                android:layout_toRightOf="@+id/dividerRate"
+                android:drawableLeft="@drawable/rate_star"
+                android:drawablePadding="@dimen/activity_margin_register"
+                android:gravity="center_horizontal"
+                android:text="3"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_general"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/divider_register"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_margin_register"
+            android:layout_marginLeft="@dimen/margin_legt_name_star"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_fp_margin_top"
+                android:orientation="vertical">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/feedback_padding"
+                    android:text="@string/text_carid"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label"/>
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvTaxiModel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0000125"
+                    android:textColor="@color/color_text_dark"
+                    android:textSize="@dimen/size_general_small"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextViewMedium
+                    android:id="@+id/tvTaxiModel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/feedback_padding"
+                    android:text="@string/text_plate_no"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label"/>
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvTaxiNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0000125"
+                    android:textColor="@color/color_text_dark"
+                    android:textSize="@dimen/size_general_small"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/divider_register"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/activity_margin_register"
+            android:paddingLeft="@dimen/margin_legt_name_star"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_margin_register">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_estTimeWithColon"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <!-- <ProgressBar -->
+                <!-- android:id="@+id/pBar" -->
+                <!-- style="?android:attr/android:progressBarStyleSmall" -->
+                <!-- android:layout_width="wrap_content" -->
+                <!-- android:layout_height="wrap_content" -->
+                <!-- android:visibility="visible" /> -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <com.ondemandbay.taxianytime.component.MyFontTextView
+                        android:id="@+id/tvEstimatedTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1"
+                        android:textColor="@color/color_text_dark"
+                        android:textSize="@dimen/size_general_small"/>
+
+                    <com.ondemandbay.taxianytime.component.MyFontTextView
+                        android:id="@+id/tvDurationUnit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center_vertical"
+                        android:layout_toRightOf="@+id/dividerRate"
+                        android:gravity="center_horizontal"
+                        android:text="min"
+                        android:textColor="@color/color_text_dark"
+                        android:textSize="@dimen/size_general_small"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_swipe"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/white"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:id="@+id/imgLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="@dimen/activity_margin_register"
+        android:layout_marginLeft="@dimen/dimen_margin_left_photo"
+        android:layout_marginTop="@dimen/activity_margin_register">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivDriverPhoto"
+            android:layout_width="@dimen/driver_photo_size"
+            android:layout_height="@dimen/driver_photo_size"
+            android:layout_centerInParent="true"
+            android:src="@drawable/default_user"/>
+
+        <include
+            layout="@layout/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>

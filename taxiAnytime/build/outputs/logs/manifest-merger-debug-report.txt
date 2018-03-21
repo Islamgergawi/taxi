@@ -1,0 +1,598 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:2:11-48
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Islam\.android\build-cache\96a1e0f5b55c12d66bfa3e028d191c800e833350\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\AndroidManifest.xml:21:5-66
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Islam\.android\build-cache\e26e9afe5169ac7bbacf583846e6998b7a729409\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:21:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Islam\.android\build-cache\5ee2bc881a38fbe8167ce7c75547dad6ca5453a1\output\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Islam\.android\build-cache\cdb4c81e6c34c72ed50357798b57b6b7cee64060\output\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Islam\.android\build-cache\99927a752cc7eded3a6f6bf33ab4ec8da884c40b\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Islam\.android\build-cache\1b9d351785720cf1f22c08deff7a99da611683d0\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Islam\.android\build-cache\e38a27f79f618d6726522e4d3d90de60894d5623\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Islam\.android\build-cache\5d6b4275eafaa63d63e968bb64254f791c00e932\output\AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Islam\.android\build-cache\53134498635ec9ac35c95272997b51a7d96c8b40\output\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Islam\.android\build-cache\96a1e0f5b55c12d66bfa3e028d191c800e833350\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Islam\.android\build-cache\bc09e8013863618af5bb9bef32abd9573b21e00d\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:9:22-78
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:10:5-81
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:15:5-82
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Islam\.android\build-cache\e26e9afe5169ac7bbacf583846e6998b7a729409\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:10:22-79
+permission#com.ondemandbay.taxianytime.permission.C2D_MESSAGE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:11:5-13:46
+	android:protectionLevel
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:12:9-74
+uses-permission#com.ondemandbay.taxianytime.permission.C2D_MESSAGE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:15:5-90
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:15:22-87
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:20:5-67
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:14:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:23:5-70
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:25:22-71
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:26:22-95
+uses-permission#android.permission.CALL_PRIVILEGED
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:27:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:31:22-72
+uses-feature#0x00020000
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:35:5-37:34
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:36:9-41
+	android:required
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:37:9-32
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:38:5-40:35
+	android:required
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:39:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:41:5-43:35
+	android:required
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:42:9-57
+application
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:45:5-155:15
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Islam\.android\build-cache\6a89b920f51bb8e7aa7fbaa3f068293be85251da\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Islam\.android\build-cache\96a1e0f5b55c12d66bfa3e028d191c800e833350\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Islam\.android\build-cache\0e1685d2343d6b2c4fd78e3c6874c503bf53ca3c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Islam\.android\build-cache\fea81ec4b06a8b80480eb8bedcc8798f76306f53\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Islam\.android\build-cache\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Islam\.android\build-cache\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Islam\.android\build-cache\80f1f5eb24a8db9f5f68637d88510027ecb052b0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Islam\.android\build-cache\1a12d67ac20b3a21569a25a85b50705c897f60c2\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Islam\.android\build-cache\8f14e6ee348825ecebe18bea183221adcafa6499\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Islam\.android\build-cache\d0ecc8f4bf6d445dd44c8e966b408343158b6895\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Islam\.android\build-cache\bc09e8013863618af5bb9bef32abd9573b21e00d\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Islam\.android\build-cache\549ec6737bb1c0af6e0a9dca67bea983ab4c2517\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Islam\.android\build-cache\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Islam\.android\build-cache\5cc69c829bc2eaccfe1dfcfaf1aed581e8adb0b4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Islam\.android\build-cache\f5c1322c29d34e23ca1b34503471adccb5b56cc4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Islam\.android\build-cache\2bd7176aef4591b73fccee98971685c0dc69c662\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Islam\.android\build-cache\d3aa9591c6e7a2b859cc5e07f80e662135debe32\output\AndroidManifest.xml:19:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Islam\.android\build-cache\b68c73c228a91af2d6f7aff1b7eee9b9c6e1021a\output\AndroidManifest.xml:9:5-20
+MERGED from [com.sromku:simple-fb:4.1.1] C:\Users\Islam\.android\build-cache\2c4fc1296bc213c37237649122ca4b8d6320852e\output\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Islam\.android\build-cache\bd92949586649485cc78b3b775a700c2b496667b\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Islam\.android\build-cache\3fb4340dc435110453c2ab7f27c29a7cd4dfb84f\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Islam\.android\build-cache\4d534f8a266a2abe772ac46cb1e37973c3418a02\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Islam\.android\build-cache\cb456881b7255f14f4431edea66a925903eb2fb7\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Islam\.android\build-cache\0e8d790cb08b9ed0961b00f4a37b0a2a20f69047\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Islam\.android\build-cache\e479a268c6a207692c91e4393db6b66df84bcaa2\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:28:5-43:19
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:17:5-66:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Islam\.android\build-cache\e26e9afe5169ac7bbacf583846e6998b7a729409\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Islam\.android\build-cache\5dcd51d72fafdc57bd72d2d70532faa9ab95cbfe\output\AndroidManifest.xml:20:5-24:19
+MERGED from [ZGo:library_pinnlistivew:unspecified] C:\Users\Islam\Desktop\ZGo\library_pinnlistivew\build\intermediates\bundles\default\AndroidManifest.xml:11:5-47
+MERGED from [ZGo:fancylibrary:unspecified] C:\Users\Islam\Desktop\ZGo\fancylibrary\build\intermediates\bundles\default\AndroidManifest.xml:27:5-28:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Islam\.android\build-cache\5ee2bc881a38fbe8167ce7c75547dad6ca5453a1\output\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Islam\.android\build-cache\cdb4c81e6c34c72ed50357798b57b6b7cee64060\output\AndroidManifest.xml:13:5-14:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Islam\.android\build-cache\99927a752cc7eded3a6f6bf33ab4ec8da884c40b\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Islam\.android\build-cache\1b9d351785720cf1f22c08deff7a99da611683d0\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Islam\.android\build-cache\e38a27f79f618d6726522e4d3d90de60894d5623\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Islam\.android\build-cache\5d6b4275eafaa63d63e968bb64254f791c00e932\output\AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Islam\.android\build-cache\53134498635ec9ac35c95272997b51a7d96c8b40\output\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:49:9-41
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Islam\.android\build-cache\bd92949586649485cc78b3b775a700c2b496667b\output\AndroidManifest.xml:28:18-44
+	android:allowBackup
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:48:9-45
+	android:largeHeap
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:50:9-33
+	android:theme
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:51:9-40
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:46:9-68
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:52:9-54:68
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Islam\.android\build-cache\5dcd51d72fafdc57bd72d2d70532faa9ab95cbfe\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:53:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:57:13-48
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:56:13-62
+activity#com.ondemandbay.taxianytime.RegisterActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:59:9-64:20
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:63:13-64
+	android:configChanges
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:60:13-72
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:65:9-81
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:65:19-79
+activity#com.ondemandbay.taxianytime.MainDrawerActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:66:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:68:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:70:13-64
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:67:13-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:72:9-77:54
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:77:19-51
+	xmlns:tools
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:72:19-65
+	android:configChanges
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:75:13-96
+	android:theme
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:76:19-78
+		REJECTED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:73:13-42
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:74:13-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:79:9-81:52
+	android:value
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:81:13-50
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:80:13-58
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:84:9-93:20
+	android:permission
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:86:13-73
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:85:13-71
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.ondemandbay.taxianytime
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:87:13-92:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:88:17-80
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:88:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:89:17-85
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:89:25-83
+category#com.ondemandbay.taxianytime
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:91:17-71
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:91:27-69
+service#com.ondemandbay.taxianytime.GCMIntentService
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:96:9-105:15
+	android:exported
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:97:13-72
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:99:13-104:25
+activity#com.ondemandbay.taxianytime.AddPaymentActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:106:5-109:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:108:9-45
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:107:9-70
+activity#com.ondemandbay.taxianytime.ProfileActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:110:5-115:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:113:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:114:9-60
+	android:configChanges
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:112:9-70
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:111:9-67
+activity#com.ondemandbay.taxianytime.BookingDetailsActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:116:5-119:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:118:9-45
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:117:9-74
+activity#com.ondemandbay.taxianytime.MenuDescActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:120:5-124:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:122:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:123:9-50
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:121:9-68
+activity#com.ondemandbay.taxianytime.ViewPaymentActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:125:5-129:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:127:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:128:9-50
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:126:9-71
+activity#com.ondemandbay.taxianytime.HistoryActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:130:5-134:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:132:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:133:9-50
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:131:9-67
+activity#com.ondemandbay.taxianytime.HistoryDetailsActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:135:5-139:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:137:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:138:9-50
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:136:9-74
+activity#com.ondemandbay.taxianytime.MainActivity
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:141:5-150:16
+	android:screenOrientation
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:143:9-45
+	android:theme
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:144:9-62
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:142:9-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:145:9-149:25
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:146:13-72
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:146:23-70
+action#android.intent.action.MAIN
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:148:13-64
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:148:21-62
+meta-data#io.fabric.ApiKey
+ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:152:5-154:68
+	android:value
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:154:9-65
+	android:name
+		ADDED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml:153:9-40
+uses-sdk
+INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Islam\.android\build-cache\6d2ed5ff4eeea27a9d383d0434a16609dfafb69d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Islam\.android\build-cache\6a89b920f51bb8e7aa7fbaa3f068293be85251da\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Islam\.android\build-cache\96a1e0f5b55c12d66bfa3e028d191c800e833350\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Islam\.android\build-cache\0e1685d2343d6b2c4fd78e3c6874c503bf53ca3c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Islam\.android\build-cache\fea81ec4b06a8b80480eb8bedcc8798f76306f53\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Islam\.android\build-cache\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Islam\.android\build-cache\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Islam\.android\build-cache\80f1f5eb24a8db9f5f68637d88510027ecb052b0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Islam\.android\build-cache\1a12d67ac20b3a21569a25a85b50705c897f60c2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Islam\.android\build-cache\8f14e6ee348825ecebe18bea183221adcafa6499\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Islam\.android\build-cache\d0ecc8f4bf6d445dd44c8e966b408343158b6895\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Islam\.android\build-cache\bc09e8013863618af5bb9bef32abd9573b21e00d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Islam\.android\build-cache\549ec6737bb1c0af6e0a9dca67bea983ab4c2517\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Islam\.android\build-cache\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Islam\.android\build-cache\5cc69c829bc2eaccfe1dfcfaf1aed581e8adb0b4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Islam\.android\build-cache\f5c1322c29d34e23ca1b34503471adccb5b56cc4\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\Islam\.android\build-cache\d62b4917ca0a2774231f35aa9530978a204d2551\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Islam\.android\build-cache\2bd7176aef4591b73fccee98971685c0dc69c662\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Islam\.android\build-cache\f1c35c72defdb028e627e11bd1b4de2aa9e65947\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Islam\.android\build-cache\d3aa9591c6e7a2b859cc5e07f80e662135debe32\output\AndroidManifest.xml:18:5-42
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\Islam\.android\build-cache\54fad4db946988fd9f61c3d0a572cc26349f7145\output\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Islam\.android\build-cache\b68c73c228a91af2d6f7aff1b7eee9b9c6e1021a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.sromku:simple-fb:4.1.1] C:\Users\Islam\.android\build-cache\2c4fc1296bc213c37237649122ca4b8d6320852e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Islam\.android\build-cache\bd92949586649485cc78b3b775a700c2b496667b\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Islam\.android\build-cache\3fb4340dc435110453c2ab7f27c29a7cd4dfb84f\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Islam\.android\build-cache\4d534f8a266a2abe772ac46cb1e37973c3418a02\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Islam\.android\build-cache\9382073b3339bd5074467ef7942e51be09e7f8b3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Islam\.android\build-cache\cc6e5b7b37d8fd1ae64a731e991756325cbb9e24\output\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Islam\.android\build-cache\cb456881b7255f14f4431edea66a925903eb2fb7\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Islam\.android\build-cache\0e8d790cb08b9ed0961b00f4a37b0a2a20f69047\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Islam\.android\build-cache\e479a268c6a207692c91e4393db6b66df84bcaa2\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:24:5-26:41
+MERGED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:18:5-43
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Islam\.android\build-cache\ce5019555a6a8f9e062b4875bcc02a13a29edc08\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Islam\.android\build-cache\0f08b43d0cef47277dab69c3cba04e9dae4fe10c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Islam\.android\build-cache\ef4d76525c389cbc84e7c8055fcf33cc93fe1df1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Islam\.android\build-cache\e26e9afe5169ac7bbacf583846e6998b7a729409\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Islam\.android\build-cache\0411d8a9d1a41b9299aa9873bf5603544b594124\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Islam\.android\build-cache\5dcd51d72fafdc57bd72d2d70532faa9ab95cbfe\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Islam\.android\build-cache\3c612f46dfb964461012487790d148a0f0d89934\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Islam\.android\build-cache\e0e2f96b28374a99e92112d877de35ce297ca328\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Islam\.android\build-cache\e779dc04f60d4cd6760f9224fda99732a7beff75\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Islam\.android\build-cache\64ecaae7dfb63bfa592f671143d5a5d54d8e8f28\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Islam\.android\build-cache\e4cedf6cc49b9dc69828b993c2a0e1fa94f22bb2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Islam\.android\build-cache\69b5b4499ccc618e1a8eee24448a5183528e0ead\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Islam\.android\build-cache\779adda02e6663af35002c9eea173ad7b7c6b144\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.stripe:stripe-android:2.0.2] C:\Users\Islam\.android\build-cache\f5df1eec00498d969e076bc0b69a5292d74bf1c3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [ZGo:library_pinnlistivew:unspecified] C:\Users\Islam\Desktop\ZGo\library_pinnlistivew\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [ZGo:fancylibrary:unspecified] C:\Users\Islam\Desktop\ZGo\fancylibrary\build\intermediates\bundles\default\AndroidManifest.xml:23:5-25:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Islam\.android\build-cache\5ee2bc881a38fbe8167ce7c75547dad6ca5453a1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Islam\.android\build-cache\cdb4c81e6c34c72ed50357798b57b6b7cee64060\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Islam\.android\build-cache\99927a752cc7eded3a6f6bf33ab4ec8da884c40b\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Islam\.android\build-cache\1b9d351785720cf1f22c08deff7a99da611683d0\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Islam\.android\build-cache\e38a27f79f618d6726522e4d3d90de60894d5623\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Islam\.android\build-cache\5d6b4275eafaa63d63e968bb64254f791c00e932\output\AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Islam\.android\build-cache\53134498635ec9ac35c95272997b51a7d96c8b40\output\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Islam\Desktop\ZGo\taxiAnytime\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Islam\.android\build-cache\9869307260ff1154b9f5a2a21c4b3273a44e65da\output\AndroidManifest.xml:30:19-91
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Islam\.android\build-cache\20be08b0f339059304501ecba4d6932d6ae3e84c\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Islam\.android\build-cache\6b0b2cc234dc051711dd910933f11ae97381f547\output\AndroidManifest.xml:40:13-70
+receiver#pub.devrel.easygoogle.gac.AppInvitesReferralReceiver
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:22:13-36
+	tools:ignore
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:21:13-80
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:24:13-26:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:25:17-79
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:25:25-76
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:30:9-39:20
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:32:13-36
+	android:permission
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:33:13-73
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:31:13-66
+intent-filter#com.example.gcm+com.google.android.c2dm.intent.RECEIVE
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:34:13-38:29
+category#com.example.gcm
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:37:17-60
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:37:27-57
+service#pub.devrel.easygoogle.gcm.MessageListenerService
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:41:9-48:19
+	android:enabled
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:42:13-76
+service#pub.devrel.easygoogle.gcm.IDListenerService
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:49:9-55:19
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:50:13-71
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:52:13-54:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:53:17-80
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:53:25-77
+service#pub.devrel.easygoogle.gcm.IDRegisterService
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:56:9-59:76
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:58:13-36
+	android:permission
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:59:13-73
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:57:13-71
+service#pub.devrel.easygoogle.gcm.MessageSenderService
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:60:9-62:40
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:61:13-74
+service#pub.devrel.easygoogle.gcm.PubSubService
+ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:63:9-65:40
+	android:exported
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [pub.devrel:easygoogle:0.2.4] C:\Users\Islam\.android\build-cache\6628043d14fe6b8a6ddacc7a8696e8a7970ea787\output\AndroidManifest.xml:64:13-67
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Islam\.android\build-cache\efa85aeea7b80dc0f09daa985c5ad1ea74d531f4\output\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Islam\.android\build-cache\287b024dc1ff7350a7cdca55cc7417975e4646c6\output\AndroidManifest.xml:29:13-62
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Islam\.android\build-cache\df467b7187b8cb6b169e6a78ed82f2457c667696\output\AndroidManifest.xml:42:11-82

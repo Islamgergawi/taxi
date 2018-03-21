@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_menu.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\picture_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\picture_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\check_ic.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\check_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\divider_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\divider_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\box_ongoing.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\box_ongoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\check_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\check_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\search_icon.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_btn_small.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_btn_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\divider_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\divider_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\app_name.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\app_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ub__creditcard_mastercard.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ub__creditcard_mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_fb.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\btn_fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_actionbar.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_loding.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_loding.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\overdue_btn_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\overdue_btn_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\check_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\check_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ub__creditcard_visa.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ub__creditcard_visa.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fb_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\fb_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rubbish.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\rubbish.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrwo_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\arrwo_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_google.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\btn_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\source_fill_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\source_fill_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\camera_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\attention_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\attention_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ub__nav_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ub__nav_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\line_divider.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\line_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow_icon_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\arrow_icon_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\info.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\divider_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\divider_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_attention.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\img_attention.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calendar.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel_trip.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\cancel_trip.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_pickup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\btn_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow_right.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calendar_mybookings.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\calendar_mybookings.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_btn_small_light.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_btn_small_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\close_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\close_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ellipse.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\km.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\km.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\notification_box_arrived.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\notification_box_arrived.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button_bg_create_request.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\button_bg_create_request.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\section_box_history.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\section_box_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\line_invoice.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\line_invoice.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fare_info.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\fare_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\close_button.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\close_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\history_cash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\history_cash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_box_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_box_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cash_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\cash_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_line_payment_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_line_payment_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_done.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\btn_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cvv_line_payment_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\cvv_line_payment_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\box_future.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\box_future.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\photocam_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\photocam_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pin_driver.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\pin_driver.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\default_user.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vehicle.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\vehicle.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gmail_w.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\gmail_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\cash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ub__creditcard_discover.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ub__creditcard_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\check.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_close.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\icon_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\add_card_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\add_card_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ub__creditcard_amex.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ub__creditcard_amex.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\right.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ellipse_b.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ellipse_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\star_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\check_ongoing.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\check_ongoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pickup_drop.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\pickup_drop.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gmail.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\colck.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\colck.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_w_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_w_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_selector.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_selector.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\edit_profile.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fb_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\fb_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\selected_service.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\selected_service.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\un_checkbox.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\un_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ellipse_a.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ellipse_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\notification_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\notification_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\completed_btn_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\completed_btn_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\back.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\divider_white.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\divider_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cash_selector.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\cash_selector.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\menu.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\call.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\card_selected_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\card_selected_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading_car.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\loading_car.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\big_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\big_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\comment_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\comment_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\notification_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\notification_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ellipse_contacting.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\ellipse_contacting.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\car.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkbox.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_profile.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sarch.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\sarch.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rate_star.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\rate_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wallet.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pin_client_org.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\pin_client_org.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clock.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\no_items.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\no_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\destination_pin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\destination_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dot_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\dot_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_bill_trans.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bg_bill_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\date.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\date.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sarch_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\sarch_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_feedback_blank.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\star_feedback_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bf_payment_light.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-ldpi\\bf_payment_light.png"
+    }
+]

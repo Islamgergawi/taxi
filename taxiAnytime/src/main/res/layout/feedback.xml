@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/feedbackView"
+            layout="@layout/include_feedback_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/completed_btn_feedback"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@drawable/clock"
+                    android:drawablePadding="@dimen/activity_margin_register"
+                    android:gravity="center"
+                    android:text="36 mins"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_dialog_small"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/overdue_btn_feedback"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.ondemandbay.taxianytime.component.MyFontTextView
+                    android:id="@+id/tvDistance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@drawable/pin"
+                    android:drawablePadding="@dimen/activity_margin_register"
+                    android:gravity="center"
+                    android:text="21.8 kms"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_dialog_small"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="@dimen/feedback_margin_two"
+            android:layout_marginTop="@dimen/feedback_margin_two"
+            android:text="comments"
+            android:textAllCaps="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/color_text_dark"
+            android:textSize="@dimen/size_label"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontEdittextView
+            android:id="@+id/etComment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/feedback_margin_two"
+            android:layout_marginRight="@dimen/feedback_margin_two"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="top"
+            android:hint="@string/text_comment"
+            android:lines="4"
+            android:maxLines="4"
+            android:minLines="4"
+            android:textColor="@color/color_text_dark"
+            android:textSize="@dimen/size_general"/>
+    </LinearLayout>
+
+    <com.ondemandbay.taxianytime.component.MyFontButton
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_done"/>
+
+</LinearLayout>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:orientation="vertical"
+              android:paddingTop="@dimen/activity_margin_register">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/reason1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:text="@string/text_driver_delayed"
+            android:textColor="@color/color_text_label"
+            android:textSize="15sp"/>
+
+        <RadioButton
+            android:id="@+id/r1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reason1"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"/>
+
+        <!-- <CheckBox -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_alignBottom="@id/reason1" -->
+        <!-- android:layout_alignParentEnd="true" -->
+        <!-- android:layout_alignParentRight="true" /> -->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/reason2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@id/reason1"
+            android:layout_alignRight="@id/reason1"
+            android:layout_below="@id/reason1"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:text="@string/text_changed_my_mind"
+            android:textColor="@color/color_text_label"
+            android:textSize="15sp"/>
+
+        <RadioButton
+            android:id="@+id/r2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reason2"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"/>
+
+        <!-- <CheckBox -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_alignBottom="@id/reason2" -->
+        <!-- android:layout_alignParentEnd="true" -->
+        <!-- android:layout_alignParentRight="true" /> -->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/reason3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@id/reason2"
+            android:layout_alignRight="@id/reason2"
+            android:layout_below="@id/reason2"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:text="@string/text_book_another"
+            android:textColor="@color/color_text_label"
+            android:textSize="15sp"/>
+
+        <RadioButton
+            android:id="@+id/r3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reason3"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"/>
+
+        <!--         <CheckBox -->
+        <!--             android:layout_width="wrap_content" -->
+        <!--             android:layout_height="wrap_content" -->
+        <!--             android:layout_alignBottom="@id/reason3" -->
+        <!--             android:layout_alignParentEnd="true" -->
+        <!--             android:layout_alignParentRight="true" /> -->
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <com.ondemandbay.taxianytime.component.MyFontButton
+            android:id="@+id/btnOk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_btn_small_light"
+            android:gravity="center"
+            android:text="@string/text_ok"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+    </LinearLayout>
+
+</LinearLayout>

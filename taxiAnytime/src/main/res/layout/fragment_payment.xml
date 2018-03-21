@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerInParent="true"
+              android:background="@drawable/ellipse_contacting"
+              android:gravity="center"
+              android:minHeight="0dp"
+              android:minWidth="0dp"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/activity_vertical_margin"
+              android:paddingLeft="@dimen/activity_horizontal_margin"
+              android:paddingRight="@dimen/activity_horizontal_margin"
+              android:paddingTop="@dimen/activity_vertical_margin">
+
+    <com.ondemandbay.taxianytime.component.MyFontEdittextView
+        android:id="@+id/edtRegisterCreditCardNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:background="@drawable/card_line_payment_popup"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:hint="@string/text_credit_card_number"
+        android:inputType="numberDecimal"
+        android:nextFocusDown="@+id/expMonth"
+        android:nextFocusForward="@+id/expMonth"
+        android:nextFocusRight="@+id/expMonth"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="@dimen/size_general"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:orientation="horizontal">
+
+        <com.ondemandbay.taxianytime.component.MyFontEdittextView
+            android:id="@+id/edtRegistercvc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/activity_margin_register"
+            android:layout_weight="1"
+            android:background="@drawable/cvv_line_payment_popup"
+            android:gravity="center"
+            android:hint="@string/text_cvc"
+            android:inputType="numberDecimal"
+            android:maxLength="3"
+            android:nextFocusForward="@+id/edtRegisterexpMonth"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontEdittextView
+            android:id="@+id/edtRegisterexpMonth"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/activity_margin_register"
+            android:layout_weight="1"
+            android:background="@drawable/cvv_line_payment_popup"
+            android:gravity="center"
+            android:hint="@string/text_mm"
+            android:inputType="numberDecimal"
+            android:maxLength="2"
+            android:nextFocusForward="@+id/edtRegisterexpYear"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <com.ondemandbay.taxianytime.component.MyFontEdittextView
+            android:id="@+id/edtRegisterexpYear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/cvv_line_payment_popup"
+            android:gravity="center"
+            android:hint="@string/text_yy"
+            android:inputType="numberDecimal"
+            android:maxLength="2"
+            android:nextFocusForward="@+id/btnAddPayment"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="@dimen/size_general"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/btnAddPayment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:padding="@dimen/activity_margin_register"
+        android:src="@drawable/arrow_right"/>
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/tvSkipCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/text_skip_card"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_general"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+</LinearLayout>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/ivCash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/activity_margin_feedback"
+            android:background="@null"
+            android:src="@drawable/cash_selector"/>
+
+        <ImageView
+            android:id="@+id/ivCredit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/card_selector"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llPayment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/tvAddPayment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/feedback_margin"
+            android:text="@string/text_add_card"
+            android:textAllCaps="true"
+            android:textColor="@color/color_text_dark"
+            android:textSize="@dimen/size_dialog_small"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_fp_margin_top"
+            android:layout_marginTop="@dimen/feedback_margin"
+            android:background="@drawable/bf_payment_light"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="@dimen/dimen_fp_margin"
+                android:drawableTop="@drawable/add_card_payment"
+                android:gravity="center"
+                android:text="@string/text_add_manually"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+        </LinearLayout>
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/tvHeaderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/activity_margin_register"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:background="@drawable/card_box_payment"
+            android:gravity="center_vertical"
+            android:text="@string/your_cards"
+            android:textColor="@color/color_text_dark"
+            android:textSize="@dimen/size_label"
+            android:visibility="visible"/>
+
+        <ListView
+            android:id="@+id/listViewPayment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_weight="1"
+            android:visibility="gone">
+        </ListView>
+
+        <ImageView
+            android:id="@+id/ivEmptyPayment"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@null"
+            android:src="@drawable/no_items"/>
+    </LinearLayout>
+
+</LinearLayout>

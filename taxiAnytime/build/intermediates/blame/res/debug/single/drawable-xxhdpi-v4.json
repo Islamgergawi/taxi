@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\\output\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_box_arrived.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\notification_box_arrived.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_bg_create_request.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\button_bg_create_request.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_fb.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\btn_fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_w_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_w_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\picture_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\picture_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_selector.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_selector.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\clock.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_right.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_line_payment_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_line_payment_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cash_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\cash_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ellipse_a.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ellipse_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_discover.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\\output\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\camera_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\camera_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\drawable-xxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_centerlocation_pressed.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__button_centerlocation_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_visa.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_visa.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fb_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\fb_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\right.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrwo_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\arrwo_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\destination_pin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\destination_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_car.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\loading_car.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gmail_w.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\gmail_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rate_star.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\rate_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\check_ongoing.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\check_ongoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\date.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\date.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_icon_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\arrow_icon_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sarch_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\sarch_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\\output\\res\\drawable-xxhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\source_fill_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\source_fill_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_actionbar.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\history_cash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\history_cash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\section_box_history.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\section_box_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\no_items.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\no_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_loding.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_loding.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_mastercard.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\line_invoice.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\line_invoice.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_driver.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\pin_driver.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\app_name.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\app_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_done.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\btn_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\divider_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_amex.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_amex.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_box.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\notification_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\line_divider.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\line_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\0411d8a9d1a41b9299aa9873bf5603544b594124\\output\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_attention.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\img_attention.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_menu.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_pickup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\btn_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\star_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\star_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\\output\\res\\drawable-xxhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\box_ongoing.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\box_ongoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ellipse_b.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ellipse_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pickup_drop.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\pickup_drop.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\vehicle.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\vehicle.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\close_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\close_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dot_fare_estimate.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\dot_fare_estimate.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bf_payment_light.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bf_payment_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_btn_small_light.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_btn_small_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rubbish.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\rubbish.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\notification_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_box_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_box_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_profile.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edit_profile.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\completed_btn_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\completed_btn_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\check.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\attention_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\attention_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wallet.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\box_future.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\box_future.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_close.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\icon_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\un_checkbox.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\un_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selected_service.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\selected_service.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\\output\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\big_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\big_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\overdue_btn_feedback.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\overdue_btn_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_btn_small.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_btn_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\add_card_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\add_card_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\\output\\res\\drawable-xxhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_selected_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_selected_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_centerlocation_normal.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ub__button_centerlocation_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sarch.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\sarch.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\81b605b0f0ef7554e1574d6c4c8751ce04ce1457\\output\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\star_feedback_blank.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\star_feedback_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\divider_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\calendar.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\close_button.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\close_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d534f8a266a2abe772ac46cb1e37973c3418a02\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_bill_trans.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\bg_bill_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\info.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\check_ic.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\check_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d0ecc8f4bf6d445dd44c8e966b408343158b6895\\output\\res\\drawable-xxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fb_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\fb_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\d5f9c4e5a275c3bf33a7467fdf9a63b3f6987a91\\output\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\check_notification.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\check_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ellipse_contacting.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\ellipse_contacting.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\checkbox.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\call.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\km.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\km.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fare_info.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\fare_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_client_org.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\pin_client_org.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_divider_line.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\nav_divider_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_icon.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cancel_trip.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\cancel_trip.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\photocam_register.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\photocam_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\ce5019555a6a8f9e062b4875bcc02a13a29edc08\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cvv_line_payment_popup.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\cvv_line_payment_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\satr_feedback_blank.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\satr_feedback_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\default_user.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_signin.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\divider_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\4d1e7f6f3a24e4f3812f46a40cb59cc7b1534971\\output\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\colck.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\colck.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cash.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\cash.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cash_selector.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\cash_selector.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\calendar_mybookings.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\calendar_mybookings.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\20be08b0f339059304501ecba4d6932d6ae3e84c\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_google.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\btn_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\e479a268c6a207692c91e4393db6b66df84bcaa2\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gmail.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\card_payment.png",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\drawable-xxhdpi\\card_payment.png"
+    }
+]

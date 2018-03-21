@@ -1,0 +1,16 @@
+at.technikum.mti.fancycoverflow
+int attr actionDistance 0x7f040001
+int attr maxRotation 0x7f040002
+int attr scaleDownGravity 0x7f040003
+int attr unselectedAlpha 0x7f040004
+int attr unselectedSaturation 0x7f040005
+int attr unselectedScale 0x7f040006
+int id auto 0x7f0c0001
+int string app_name 0x7f150001
+int[] styleable FancyCoverFlow { 0x7f040001, 0x7f040002, 0x7f040003, 0x7f040004, 0x7f040005, 0x7f040006 }
+int styleable FancyCoverFlow_actionDistance 0
+int styleable FancyCoverFlow_maxRotation 1
+int styleable FancyCoverFlow_scaleDownGravity 2
+int styleable FancyCoverFlow_unselectedAlpha 3
+int styleable FancyCoverFlow_unselectedSaturation 4
+int styleable FancyCoverFlow_unselectedScale 5

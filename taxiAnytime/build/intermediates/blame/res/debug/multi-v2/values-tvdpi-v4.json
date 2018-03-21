@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tvdpi-v4\\values-tvdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "66,16",
+                        "endColumns": "45,49",
+                        "endOffsets": "107,61"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,49",
+                        "endOffsets": "96,146"
+                    }
+                }
+            ]
+        }
+    ]
+}

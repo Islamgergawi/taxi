@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layoutCardDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/layoutCash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cash_notification"
+            android:minHeight="0dp"
+            android:minWidth="0dp">
+
+            <TextView
+                android:id="@+id/tvCash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/wallet"
+                android:drawablePadding="@dimen/activity_margin_register"
+                android:text="@string/text_cash"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+
+            <ImageView
+                android:id="@+id/imgSelectedCash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:src="@drawable/check_notification"
+                android:visibility="visible"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/layoutCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/card_notification">
+
+            <ImageView
+                android:id="@+id/imgSelectedCard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:src="@drawable/check_notification"
+                android:visibility="visible"/>
+
+            <TextView
+                android:id="@+id/tvCardNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/cash"
+                android:drawablePadding="@dimen/activity_margin_register"
+                android:text="@string/text_card"
+                android:textColor="@color/white"
+                android:textSize="@dimen/size_general"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

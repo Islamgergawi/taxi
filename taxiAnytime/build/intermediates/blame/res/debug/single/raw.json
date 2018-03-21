@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\raw\\countrycodes.json",
+        "source": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\src\\main\\res\\raw\\countrycodes.json"
+    },
+    {
+        "merged": "C:\\Users\\Islam\\Desktop\\ZGo\\taxiAnytime\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Islam\\.android\\build-cache\\96a1e0f5b55c12d66bfa3e028d191c800e833350\\output\\res\\raw\\gtm_analytics"
+    }
+]

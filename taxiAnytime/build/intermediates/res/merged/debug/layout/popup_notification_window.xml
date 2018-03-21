@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+    <!--
+         <ImageView
+        android:id="@+id/popup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/popup" />
+    -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ellipse_contacting"
+        android:gravity="center"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/popup_margin_text"
+        android:paddingRight="@dimen/popup_margin_text"
+        android:paddingTop="@dimen/popup_margin_text">
+
+        <com.ondemandbay.taxianytime.component.MyFontTextView
+            android:id="@+id/tvPopupMsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_driver_arrvied"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_dialog_notification"/>
+
+        <ImageView
+            android:id="@+id/cancelPopup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dimen_fp_margin_top"
+            android:padding="@dimen/activity_margin_register"
+            android:src="@drawable/arrwo_notification"/>
+    </LinearLayout>
+
+</RelativeLayout>

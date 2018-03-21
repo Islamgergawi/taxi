@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/relMain"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/llTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_actionbar"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btnActionMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical|left"
+                android:background="@null"
+                android:padding="@dimen/feedback_margin_one"
+                android:src="@drawable/menu"/>
+
+            <com.ondemandbay.taxianytime.component.MyFontTextView
+                android:id="@+id/tvTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_toRightOf="@+id/btnActionMenu"
+                android:layout_weight="1"
+                android:text="@string/app_name"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general"/>
+
+            <LinearLayout
+                android:id="@+id/layoutDestination"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_margin_register"
+                android:layout_marginTop="@dimen/activity_margin_register"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:visibility="gone">
+
+                <AutoCompleteTextView
+                    android:id="@+id/etEnterSource"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/text_destination_location"
+                    android:imeOptions="actionDone"
+                    android:inputType="textNoSuggestions"
+                    android:singleLine="true"
+                    android:textSize="@dimen/size_general_small">
+
+                    <requestFocus/>
+                </AutoCompleteTextView>
+
+                <ImageButton
+                    android:id="@+id/imgClearDst"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:paddingBottom="@dimen/dimen_fp_margin"
+                    android:paddingTop="@dimen/dimen_fp_margin"
+                    android:src="@drawable/search_icon"
+                    android:visibility="visible"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true">
+
+                <ImageButton
+                    android:id="@+id/btnEditProfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|right"
+                    android:background="@null"
+                    android:padding="@dimen/feedback_margin_one"
+                    android:src="@drawable/right"
+                    android:visibility="gone"/>
+
+                <ImageButton
+                    android:id="@+id/btnActionNotification"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|right"
+                    android:background="@null"
+                    android:padding="@dimen/feedback_margin_one"
+                    android:src="@drawable/back"/>
+
+                <!-- <ImageButton -->
+                <!-- android:id="@+id/btnShare" -->
+                <!-- android:layout_width="wrap_content" -->
+                <!-- android:layout_height="wrap_content" -->
+                <!-- android:layout_gravity="center_vertical|right" -->
+                <!-- android:layout_toRightOf="@id/btnActionNotification" -->
+                <!-- android:background="@null" -->
+                <!-- android:paddingBottom="8dp" -->
+                <!-- android:paddingLeft="@dimen/padding_top" -->
+                <!-- android:paddingRight="@dimen/padding_top" -->
+                <!-- android:paddingTop="8dp" -->
+                <!-- android:src="@drawable/share_ic" -->
+                <!-- android:visibility="gone" /> -->
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
